@@ -17,18 +17,38 @@
       <link>https://example.com/project/ioe/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/ioe/</guid>
-      <description>&lt;p style=&#34;text-align:justify&#34;&gt;
-The main innovative aspect of IoE data is to design and develop the infrastructure and middlewares for energy data sharing with linked data and ontologies. It includes data representation, data interoperability, data quality and analytics for energy management services among the multiple stakeholders. The deep learning models have been applied to analyze the human activities and energy usage patterns for the efficient management of energy.
-&lt;/p&gt;
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+The main innovative aspect of IoE data was to design and develop the infrastructure and middlewares for energy data sharing with linked data and ontologies. It includes data representation, data interoperability, data quality and analytics for energy management services among the multiple stakeholders. The deep learning models have been applied to analyze the human activities and energy usage patterns for the efficient management of energy.
+&lt;br/&gt;
 &lt;b&gt;Collaborations:&lt;/b&gt;
-&lt;p&gt;In this project, our partners include from the &lt;a href=&#34;https://english.kookmin.ac.kr/&#34;&gt;Kookmin University, Republic of Korea&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Responsibilities include:&lt;/b&gt;&lt;/p&gt;
+&lt;/br&gt;
+In this project, our partners were from the &lt;a href=&#34;https://english.kookmin.ac.kr/&#34;&gt;Kookmin University, Republic of Korea&lt;/a&gt;
+&lt;/br&gt;
+&lt;b&gt;Tasks and Responsibilities:&lt;/b&gt;
 &lt;ul&gt;
   &lt;li&gt;To define the energy big data analytics environment.&lt;/li&gt;
   &lt;li&gt;The semantically representation of energy big data in order to resolve the interoperability among various stakeholders.&lt;/li&gt;
   &lt;li&gt;To perform data mining and analytics in order to create the knowledge from the energy data that will be used for energy efficiency decisions.&lt;/li&gt;
   &lt;li&gt;To design and develop machine learning and deep learning model to detect user behavior and energy usage pattern that can be used in the modelling future needs of energy.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
 </description>
     </item>
     

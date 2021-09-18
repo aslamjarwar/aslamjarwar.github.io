@@ -114,10 +114,16 @@
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/project/woo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/provenance-and-anonymisation/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tag/woo-sas/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/communiments/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/project/communiments/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/admin/</loc>
   </url>
