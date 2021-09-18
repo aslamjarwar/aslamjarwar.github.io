@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PROVANON | Aslam</title>
+    <link>https://example.com/tag/provanon/</link>
+      <atom:link href="https://example.com/tag/provanon/index.xml" rel="self" type="application/rss+xml" />
+    <description>PROVANON</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>PROVANON</title>
+      <link>https://example.com/tag/provanon/</link>
+    </image>
+    
+    <item>
+      <title>Provenance and Anonymisation (PROVANON)</title>
+      <link>https://example.com/project/provanon/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/provanon/</guid>
+      <description>&lt;p&gt;In order to apply functional anonymisation, UKAN developed the Anonymisation Decision-Making Framework (ADF). The ADF provides a ten-step process to analyse the factors underlying confidentiality risk and emphasises that appropriate anonymisation decisions about a given set of data are only possible by considering the relationship between the data and their environment(s),which they term the data situation. Such data situations are often dynamic and so understanding their complexity requires an awareness of the flows of data through them.&lt;/p&gt;
+&lt;p&gt;PROVANON, a Turing Institute pilot project is examining how the use of provenance formalisms can be used to capture the necessary features of dynamic data situations to allow more principled analysis of risk, the requirements of anonymisation and related topics such as data ethics and utility. Data provenance is a record of creation and modification of data. It has many uses, including scientific reproducibility, debugging, and establishing trust in data. The insight driving this project is that the core elements of the data environment (agents with access to the data; supplementary data which might be integrated with the data; infrastructure in which the data is stored and processed; and governance of the data) have the potential to be mapped with W3C PROV [3]. W3C PROV is an interoperability standard for provenance that defines the actors, entities, and activities which together created the dataset, and the relationships between them. Using PROV, we can map where data came from, and how they were processed. The objectives of this project are to:&lt;/p&gt;
+&lt;p&gt;Undertake an analysis of modelling data environments, expressing terms as described in [1] using PROV concepts, including any domain-specific extensions to PROV that may be required to support this new usage.
+Identify how to use provenance not only as a record of the development of the data, but also to help create contractual agreement in how data will be utilised after sharing, and how it can be used to support/comply with GDPR and other data privacy legislation.
+Determine what improvements can be made to the operational power of the ADF by using the PROV representation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
