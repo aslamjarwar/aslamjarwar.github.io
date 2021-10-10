@@ -21,10 +21,58 @@
     </item>
     
     <item>
+      <title>Web objects based contextual data quality assessment model for semantic data application</title>
+      <link>https://example.com/publication/dqm/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dqm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Microservices Model to Enhance the Availability of Data for Buildings Energy Efficiency Management Services</title>
+      <link>https://example.com/publication/energies_19/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/energies_19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CommuniMents: A framework for detecting community based sentiments for events</title>
+      <link>https://example.com/publication/communiments/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/communiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Methodology of Microservices to Support Predictive Analytics for IoT Applications</title>
+      <link>https://example.com/publication/design_microservices/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/design_microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model of Socially Connected Web Objects for IoT Applications</title>
+      <link>https://example.com/publication/social_iot/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/social_iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Microservices in Web Objects Enabled IoT Environment for Enhancing Reusability</title>
       <link>https://example.com/publication/iot_resuability_sensor/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/iot_resuability_sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logistic model to support service modularity for the promotion of reusability in a Web Objects-Enabled IoT environment</title>
+      <link>https://example.com/publication/logistic_sensors/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/logistic_sensors/</guid>
       <description></description>
     </item>
     

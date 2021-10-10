@@ -21,10 +21,170 @@
     </item>
     
     <item>
+      <title>Provenance, Anonymisation and Data Environments: a Unifying Construction</title>
+      <link>https://example.com/publication/provanon_arxiv/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/provanon_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web objects based contextual data quality assessment model for semantic data application</title>
+      <link>https://example.com/publication/dqm/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dqm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Quality Assessment based on Web of Objects for Healthcare Applications</title>
+      <link>https://example.com/publication/hufs_thesis/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hufs_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framework to support data quality management in IoT.” ITU-T Focus Group on Data Processing and Management to support IoT and Smart Cities &amp; Communities</title>
+      <link>https://example.com/publication/iot_dq_itu_t/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iot_dq_itu_t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Microservices Model to Enhance the Availability of Data for Buildings Energy Efficiency Management Services</title>
+      <link>https://example.com/publication/energies_19/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/energies_19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CommuniMents: A framework for detecting community based sentiments for events</title>
+      <link>https://example.com/publication/communiments/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/communiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices based Framework to Support Interoperable IoT Applications for Enhanced Data Analytics</title>
+      <link>https://example.com/publication/2019_2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices based Linked Data Quality Model for Buildings Energy Management Services</title>
+      <link>https://example.com/publication/2019_1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Methodology of Microservices to Support Predictive Analytics for IoT Applications</title>
+      <link>https://example.com/publication/design_microservices/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/design_microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring web objects enabled data-driven microservices for E-health service provision in IoT environment</title>
+      <link>https://example.com/publication/2018_1/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2018_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Objects based Framework for the Mining and Semantic Representation of Emotion Data.” Summer Workshop on Computer Communications,</title>
+      <link>https://example.com/publication/2018_2/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2018_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model of Socially Connected Web Objects for IoT Applications</title>
+      <link>https://example.com/publication/social_iot/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/social_iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Microservices in Web Objects Enabled IoT Environment for Enhancing Reusability</title>
       <link>https://example.com/publication/iot_resuability_sensor/</link>
       <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/iot_resuability_sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework to support data interoperability in web objects based IoT environments</title>
+      <link>https://example.com/publication/2017_3/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices model in WoO based IoT platform for depressive disorder assistance</title>
+      <link>https://example.com/publication/2017_4/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logistic model to support service modularity for the promotion of reusability in a Web Objects-Enabled IoT environment</title>
+      <link>https://example.com/publication/logistic_sensors/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/logistic_sensors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart spaces recommending service provisioning in WoO platform</title>
+      <link>https://example.com/publication/2017_5/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting interoperable microservices in web objects enabled Internet of Things</title>
+      <link>https://example.com/publication/2017_1/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web objects based energy efficiency for smart home IoT service provisioning.</title>
+      <link>https://example.com/publication/2017_6/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting IoT services by integrating emotion recognition in Web of Objects</title>
+      <link>https://example.com/publication/2017_2/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Detecting Event related Sentiments of a Community</title>
+      <link>https://example.com/publication/qau_thesis/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/qau_thesis/</guid>
       <description></description>
     </item>
     
