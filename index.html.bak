@@ -108,6 +108,8 @@
       
         
       
+        
+      
     
     
     
@@ -789,6 +791,43 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/#blogs" data-target="#blogs"><span>Blogs</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
         </li>
 
@@ -956,7 +995,7 @@
       
       <img class="avatar avatar-circle"
            width="270" height="270"
-           src="/authors/admin/avatar_hu44b4d639384ae49f7aa17e9bd617a7c3_30898_270x270_fill_q75_lanczos_center.jpg" alt="Dr. Muhammad Aslam Jarwar">
+           src="/authors/admin/avatar_hu08661e66fa6ec795ca4eb1d969b99e54_12741_270x270_fill_q75_lanczos_center.jpg" alt="Dr. Muhammad Aslam Jarwar">
       
 
       <div class="portrait-title">
@@ -1104,8 +1143,8 @@ div.d {
 }
 </style>
 <div class="d">
-I am a Senior research fellow associated with  <a href="https://www.ucl.ac.uk/steapp/research/digital-technologies-policy-laboratory/petras-national-centre-excellence-iot-systems" target="_blank"> The PETRAS National Centre of Excellence for IoT Systems Cybersecurity at the Department of Science, Technology, Engineering, and Public Policy (STEaPP) </a>, <a href="https://www.ucl.ac.uk/" target="_blank">University College London.</a> I have developed and lead various domestic and international  projects. I am the author of over dozen peer-reviewed  articles and  ITU-T technical recommendations published by <a href=https://www.itu.int/en/Pages/default.aspx target="_blank">ITU-T</a>.
-<p>My research focuses is on the Industrial Internet of things (IIoT)/Cyber Physical Systems  Security Modelling, IoT-enabled Context-aware data processing, Semantic reasoning, and Artificial Intelligence. Additionally, I am the editorial board member of Progress in Human Computer Interaction Journal, Lead Guest Editor for special issue on <a href=https://www.journals.elsevier.com/sustainable-energy-technologies-and-assessments/call-for-papers/call-for-papers-on-role-of-disruptive-technologies-in-modern-distribution-grid-automation target="_blank"> “Role of Disruptive Technologies in Modern Distribution Grid Automation” in Sustainable Energy Technologies and Assessments Journal</a> and regular technical reviewer of IEEE Transactions on Network Science and Engineering, IEEE Transactions on Computational Social Systems, IEEE Sensors Journal,  Future Generation Computer System (FGCS) and other IEEE and Springer Q1 journals. I have  also served as a reviewer and technical program committee of various domestic and international conferences such as IEEE WCNC 2020-Workshop.</p>
+I am a senior research fellow  with  <a href="https://www.ucl.ac.uk/steapp/research/digital-technologies-policy-laboratory/petras-national-centre-excellence-iot-systems" target="_blank"> The PETRAS National Centre of Excellence for IoT Systems Cybersecurity at the Department of Science, Technology, Engineering, and Public Policy (STEaPP) </a>, <a href="https://www.ucl.ac.uk/" target="_blank">University College London.</a> I have developed and lead various domestic and international  projects. I am the author of over dozen peer-reviewed  articles and  ITU-T technical recommendations published by <a href=https://www.itu.int/en/Pages/default.aspx target="_blank">ITU-T</a>.
+<p>My research focuses is on the Industrial Internet of things (IIoT)/Cyber Physical Systems  Security Modelling, IoT-enabled Context-aware data processing, Semantic reasoning, and Artificial Intelligence. Additionally, I am the editorial board member of Progress in Human Computer Interaction Journal, Managing Guest Editor for special issue on <a href=https://www.journals.elsevier.com/sustainable-energy-technologies-and-assessments/call-for-papers/call-for-papers-on-role-of-disruptive-technologies-in-modern-distribution-grid-automation target="_blank"> “Role of Disruptive Technologies in Modern Distribution Grid Automation” in Sustainable Energy Technologies and Assessments Journal</a> and regular technical reviewer of IEEE Transactions on Network Science and Engineering, IEEE Transactions on Computational Social Systems, IEEE Sensors Journal,  Future Generation Computer System (FGCS) and other IEEE and Springer Q1 journals. I have  also served as a reviewer and technical program committee of various domestic and international conferences such as IEEE WCNC 2020-Workshop.</p>
  </div>
 
   <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/aslam_cv_29122021.pdf" target="_blank">resume</a>.[last updated 23.12.2020]
@@ -1122,6 +1161,8 @@ I am a Senior research fellow associated with  <a href="https://www.ucl.ac.uk/st
           <li>Internet of Things</li>
           
           <li>Cyber Physical Systems</li>
+          
+          <li>Digital Twin</li>
           
           <li>Cyber Security</li>
           
@@ -1305,6 +1346,49 @@ I am a Senior research fellow associated with  <a href="https://www.ucl.ac.uk/st
 <li>Contribute to the drafting and submission of quality publications to appropriate and reputed peer-review national and international conferences and journals.</li>
 </ul>
 </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border exp-fill">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.journals.elsevier.com/sustainable-energy-technologies-and-assessments/call-for-papers/call-for-papers-on-role-of-disruptive-technologies-in-modern-distribution-grid-automation" target="_blank" rel="noopener"><img src="/media/icons/brands/Elsevier%20-%20Role%20of%20Disruptive%20Technologies%20in%20Modern%20Distribution%20Grid%20Automation.svg" width="56px" height="56px" alt="Elsevier - Role of Disruptive Technologies in Modern Distribution Grid Automation"></a></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Managing Guest Editor</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.journals.elsevier.com/sustainable-energy-technologies-and-assessments/call-for-papers/call-for-papers-on-role-of-disruptive-technologies-in-modern-distribution-grid-automation" target="_blank" rel="noopener">Elsevier - Role of Disruptive Technologies in Modern Distribution Grid Automation</a></div>
+              <div class="text-muted exp-meta">
+                Dec 2021 –
+                
+                  Present
+                
+                
+              </div>
+            </div>
+          </div>
+          
+
+          
         </div>
       </div>
     </div>
@@ -1574,6 +1658,12 @@ div.d {
 <div class="d">
 <b>News:</b>
 <ul>
+<li>[2022.01.27] Attended 4D SIG Workshop: Covered topics include:  <a href="/news_upload/WSI%20Agenda%204D%20workshop%2027%20January%202022.pdf" target="_blank"> 1. National Data Strategy and the Data Sharing Challenge</a>
+, <a href="/news_upload/fileNotAvailable.pdf" target="_blank"> 2. ESWG introduce the main group to what we are interested in and seeking to achieve</a>
+, <a href="/news_upload/fileNotAvailable.pdf" target="_blank"> 3. Digital Twin work at the Advanced Manufacturing Research Centre, AMRC Sheffield.</a>
+</li>
+<li>[2022.01.06] I am invited by RMIT University, Australia, as an external examiner for  the PhD (Electrical & Electronic Engineering) thesis. </li>
+<li>[2021.11.25] Attended PETRAS Securing the Future: Knowledge Exchange & Networking Event (Virtual) <a href=https://petras-iot.org/">PETRAS</a>, <a href="https://www.eventbrite.co.uk/e/petras-securing-the-future-knowledge-exchange-networking-event-registration-173630572717">Event Link.</a> </li>
 <li>[2021.12.16] I am pleased to share that my VSI proposal on “Role of Disruptive Technologies in Modern Distribution Grid Automation” in Sustainable Energy Technologies and Assessments Journal. The Impact Factor of this journal is 5.353. Please visit <a href=https://bit.ly/3yAYpGF"> CFP link </a> for more detail.</li>
 <li>[2021.11.25] Attended PETRAS Securing the Future: Knowledge Exchange & Networking Event (Virtual) <a href=https://petras-iot.org/">PETRAS</a>, <a href="https://www.eventbrite.co.uk/e/petras-securing-the-future-knowledge-exchange-networking-event-registration-173630572717">Event Link.</a> </li>
 <li>[2021.09.30] Attended C-DICE Secondment Matchmaking virtual Event  <a href=https://www.cdice.ac.uk/">C-DICE</a>, <a href="https://www.eventbrite.co.uk/e/c-dice-secondment-matchmaking-event-tickets-168276592819?keep_tld=1">Event Link.</a> </li>
@@ -3313,11 +3403,6 @@ div.d {
 <li><b>Junaid Abdul Wahid</b>; Crisis related Data Analytics: New Models using Topic Modelling Variants and Supervised Learning Approaches; School of Information Engineering, Zhengzhou University, Zhengzhou, China (2020 to -).
 </li>
 </ul>
-<p><span style="font-size: 18px; color: rgb(124, 112, 107);"><strong>Master’s Theses</strong></span></p>
-<ul>
-<li><b>Mengjiao Wang</b>; Electronics and Computer Science (ECS), University in Southampton, UK (2020-).
-</li>
-</ul>
 <p><span style="font-size: 18px; color: rgb(124, 112, 107);"><strong>Bachelor’s Theses</strong></span></p>
 <ul>
 <li><b>Abdul Basit Qureshi</b>; Manchester Metropolitan University, UK (2020-).
@@ -3441,7 +3526,7 @@ div.d {
 <p><b>Editorial Services:</b> </br></p>
 <!-- <span style="font-size: 18px; color: rgb(124, 112, 107);"><strong>Guest Editor</strong></span> -->
 <ul>
-<li> Lead Guest Editor  for special issue on “Role of Disruptive Technologies in Modern Distribution Grid Automation” in Sustainable Energy Technologies and Assessments Journal.
+<li> Managing Guest Editor  for special issue on “Role of Disruptive Technologies in Modern Distribution Grid Automation” in Sustainable Energy Technologies and Assessments Journal.
 <a href=https://bit.ly/3yAYpGF target="_blank"> Link</a>
 </li>
 <li>Editorial Board Member   for  Progress in Human Computer Interaction Journal.
@@ -4268,6 +4353,244 @@ div.d {
 
   </div>
 
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="blogs" class="home-section wg-pages  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Blogs</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/blogs/hufs_1/" >THE TALE OF THE DROWNED BEASTS - CHAPTER 1</a>
+    </div>
+
+    
+    <a href="/blogs/hufs_1/"  class="summary-link">
+      <div class="article-style">
+        Far away, from the lands of the mighty titans..
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      Hasnain Aslam</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 27, 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i></span>
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/blogs/hufs_1/" >
+      <img src="/blogs/hufs_1/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_679647_150x0_resize_q75_lanczos.jpg" alt="THE TALE OF THE DROWNED BEASTS - CHAPTER 1" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+    
+  
+
+  
+  
+  
+
+</div>
 
 
     
