@@ -23,6 +23,9 @@
     <loc>https://example.com/services/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/authors/</loc>
+    <lastmod>2022-01-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/blogs/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -201,5 +204,7 @@
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/admin/</loc>
+  </url><url>
+    <loc>https://example.com/authors/admin/</loc>
   </url>
 </urlset>
