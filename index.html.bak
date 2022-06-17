@@ -23,7 +23,7 @@
   
   
 
-  <meta name="author" content="Dr. Muhammad Aslam Jarwar" />
+  <meta name="author" content="Aslam Jarwar, Ph.D., AFHEA, SMIEEE" />
 
   
   
@@ -995,11 +995,11 @@
       
       <img class="avatar avatar-circle"
            width="270" height="270"
-           src="/authors/admin/avatar_hu08661e66fa6ec795ca4eb1d969b99e54_12741_270x270_fill_q75_lanczos_center.jpg" alt="Dr. Muhammad Aslam Jarwar">
+           src="/authors/admin/avatar_hu08661e66fa6ec795ca4eb1d969b99e54_12741_270x270_fill_q75_lanczos_center.jpg" alt="Aslam Jarwar, Ph.D., AFHEA, SMIEEE">
       
 
       <div class="portrait-title">
-        <h2>Dr. Muhammad Aslam Jarwar</h2>
+        <h2>Aslam Jarwar, Ph.D., AFHEA, SMIEEE</h2>
         <h3>Researcher</h3>
 
         
@@ -1061,40 +1061,6 @@
         <li>
           <a href="https://twitter.com/aslamjarwar" target="_blank" rel="noopener" aria-label="twitter">
             <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="/"  aria-label="">
-            <i class="fas fa- big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="/"  aria-label="">
-            <i class="fas fa- big-icon"></i>
           </a>
         </li>
         
@@ -1659,7 +1625,19 @@ div.d {
 <div class="d">
 <b>News:</b>
 <ul>
-<li>[2022.05.01] I am super excited to share that I am joining Sheffield Hallam University  as a Senior Lecturer IoT. Anyone interested to start Ph.D. or Master's studies with me can visit <a href=https://www.shu.ac.uk/research/degrees/apply target="_blank"> Link </a>  or directly contact me through email. 
+<li>[2022.06.16~17] Presented our project results in PETRAS Academic Community Conference & Poster Exhibition, 16-17 June 2022, Location: Goodenough College London, UK.
+</li>
+<li>[2022.06.17] Our Paper "Things Data Interoperability Through Annotating oneM2M resources for NGSI-LD Entities"  has been accepted at the IEEE iThings 2022 conference, which will be held in  Espoo - Finland in August  2022.
+</li>
+<li>[2022.06.14] Attended  F2F meeting after very longtime. Location: Cisco Systems UK, 9-11 New Square, Feltham TW14 8HA UK.
+</li>
+<li>[2022.03.06] Invited as TPC member for the 4th INTERNATIONAL CONFERENCE ON SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2022) :  <a href="http://fse.green.edu.bd/sti-2022/"> link</a>
+</li>
+<li>[2022.03.06] Joined as TPC for Workshop on Blockchain Technologies for Trustworthy Decentralized AI Ecosystems, Espoo, Finland:  <a href="https://sites.google.com/view/ieee-bc4tai-2022/?fbclid=IwAR0uiUFttaEMs8R2E7w27XK3ZAPJ_SoVdWYBhYs4js1doFyW2Ba6SmSUCGo"> link</a>
+</li>
+<li>[2022.05.25] Attended  consultancy meeting on Cyber Physical Systems Infrastructure and Digital Twins. I presented my expert opinion and thoughts. This event was organized by the UKRI and Department for Business, Energy and Industrial Strategy. Location: 1 Sekforde Street EC1R 0BE London, UK.
+</li>
+<li>[2022.05.01] I am super excited to share that I am joining Sheffield Hallam University  as a Senior Lecturer IoT. Anyone interested to start Ph.D. or Master's studies with me can visit <a href=https://www.shu.ac.uk/research/degrees/apply target="_blank"> Link </a>  or directly contact me through email.
 </li>
 <li>[2022.05.01] I am pleased to share that I have been elevated to the grade of IEEE Senior member.
 </li>
@@ -3540,7 +3518,7 @@ div.d {
 <b>Membership:</b> </br>
 <span style="font-size: 18px; color: rgb(124, 112, 107);"><strong>Current</strong></span>
 <ul>
-<li>Member, IEEE (94189930)
+<li>Member, Senior Member IEEE (94189930)
 <li>Member, ACM (4513194)
 <li>UoM Representative, National Postdoc,  Steering Committee, United Kingdom
 <li>Member Editorial Board Progress in Human Computer Interaction Journal
@@ -3556,6 +3534,9 @@ div.d {
 </ul>
 <b>Reviewer:</b>
 <ul>
+<li>
+IEEE Transactions on Industrial Informatics
+</li>
 <li>
 IEEE Transactions on Network Science and Engineering
 </li>
