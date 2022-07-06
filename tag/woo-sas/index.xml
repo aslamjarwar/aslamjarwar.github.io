@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WoO-SAS | Aslam</title>
-    <link>https://example.com/tag/woo-sas/</link>
-      <atom:link href="https://example.com/tag/woo-sas/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/woo-sas/</link>
+      <atom:link href="/tag/woo-sas/index.xml" rel="self" type="application/rss+xml" />
     <description>WoO-SAS</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>WoO-SAS</title>
-      <link>https://example.com/tag/woo-sas/</link>
+      <link>/tag/woo-sas/</link>
     </image>
     
     <item>
       <title>Web Objects based Smart Aging Services (WoO-SAS)</title>
-      <link>https://example.com/project/woo/</link>
+      <link>/project/woo/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/woo/</guid>
+      <guid>/project/woo/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;

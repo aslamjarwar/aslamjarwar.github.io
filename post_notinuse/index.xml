@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Aslam</title>
-    <link>https://example.com/post_notinuse/</link>
-      <atom:link href="https://example.com/post_notinuse/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post_notinuse/</link>
+      <atom:link href="/post_notinuse/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post_notinuse/</link>
+      <link>/post_notinuse/</link>
     </image>
     
     <item>
       <title>Research and Networking Grant</title>
-      <link>https://example.com/post_notinuse/getting-started/</link>
+      <link>/post_notinuse/getting-started/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post_notinuse/getting-started/</guid>
+      <guid>/post_notinuse/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;

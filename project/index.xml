@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Aslam</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>Secure Ontologies for IoT Systems (SOfIoTS)</title>
-      <link>https://example.com/project/sofiots/</link>
+      <link>/project/sofiots/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/sofiots/</guid>
+      <guid>/project/sofiots/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
@@ -64,9 +64,9 @@ The project will look at the Semantic Sensor Network (SSN) Ontology (w3.org), to
     
     <item>
       <title>Provenance and Anonymisation (PROVANON)</title>
-      <link>https://example.com/project/provanon/</link>
+      <link>/project/provanon/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/provanon/</guid>
+      <guid>/project/provanon/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
@@ -106,9 +106,9 @@ PROVANON, a Turing Institute pilot project is examining how the use of provenanc
     
     <item>
       <title>Internet of Energy (IoE) Data</title>
-      <link>https://example.com/project/ioe/</link>
+      <link>/project/ioe/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ioe/</guid>
+      <guid>/project/ioe/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
@@ -146,9 +146,9 @@ In this project, our partners were from the &lt;a href=&#34;https://english.kook
     
     <item>
       <title>Enhanced Affective Wellbeing based on Emotion Technologies for adapting IoT spaces (EmoSpaces)</title>
-      <link>https://example.com/project/emospaces/</link>
+      <link>/project/emospaces/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/emospaces/</guid>
+      <guid>/project/emospaces/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
@@ -195,9 +195,9 @@ The partners from France were:
     
     <item>
       <title>Web Objects based Smart Aging Services (WoO-SAS)</title>
-      <link>https://example.com/project/woo/</link>
+      <link>/project/woo/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/woo/</guid>
+      <guid>/project/woo/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
@@ -236,9 +236,9 @@ In this project, our partners were the &lt;a href=&#34;https://www.keti.re.kr/en
     
     <item>
       <title>Detecting Event related Sentiments of a Community (CommuniMents)</title>
-      <link>https://example.com/project/communiments/</link>
+      <link>/project/communiments/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/communiments/</guid>
+      <guid>/project/communiments/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;

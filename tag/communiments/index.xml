@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>communiments | Aslam</title>
-    <link>https://example.com/tag/communiments/</link>
-      <atom:link href="https://example.com/tag/communiments/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/communiments/</link>
+      <atom:link href="/tag/communiments/index.xml" rel="self" type="application/rss+xml" />
     <description>communiments</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>communiments</title>
-      <link>https://example.com/tag/communiments/</link>
+      <link>/tag/communiments/</link>
     </image>
     
     <item>
       <title>Detecting Event related Sentiments of a Community (CommuniMents)</title>
-      <link>https://example.com/project/communiments/</link>
+      <link>/project/communiments/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/communiments/</guid>
+      <guid>/project/communiments/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;

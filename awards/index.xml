@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Aslam</title>
-    <link>https://example.com/awards/</link>
-      <atom:link href="https://example.com/awards/index.xml" rel="self" type="application/rss+xml" />
+    <link>/awards/</link>
+      <atom:link href="/awards/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://example.com/awards/</link>
+      <link>/awards/</link>
     </image>
     
     <item>
       <title>Research Award</title>
-      <link>https://example.com/awards/grant_uom/</link>
+      <link>/awards/grant_uom/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/awards/grant_uom/</guid>
+      <guid>/awards/grant_uom/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;In a highly competitive inter departmental research proposal competition at the University of Manchester I won a small amount of research grant . This funding will be used for arranging workshops,   research collaboration, networking and personal development.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Travel Award</title>
-      <link>https://example.com/awards/hufs_1/</link>
+      <link>/awards/hufs_1/</link>
       <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/awards/hufs_1/</guid>
+      <guid>/awards/hufs_1/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;In order to present my research paper in a local conference, the Hankuk University of Foreign studies awarded me a research travel award.&lt;/p&gt;
 </description>
@@ -34,9 +34,9 @@
     
     <item>
       <title>Travel Award</title>
-      <link>https://example.com/awards/hufs_2/</link>
+      <link>/awards/hufs_2/</link>
       <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/awards/hufs_2/</guid>
+      <guid>/awards/hufs_2/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;In order to visit  IoT lab at Jeju National University , the Hankuk University of Foreign studies awarded me a research travel award.&lt;/p&gt;
 </description>
@@ -44,9 +44,9 @@
     
     <item>
       <title>Travel Award Dan Nang, Vietnam</title>
-      <link>https://example.com/awards/hufs_3/</link>
+      <link>/awards/hufs_3/</link>
       <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/awards/hufs_3/</guid>
+      <guid>/awards/hufs_3/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;In order to present my research paper in a &lt;a href=&#34;http://2017.icoin.org/main/index.html&#34; target=&#34;_blank&#34;&gt;The 31st International Conference on Information Networking (ICOIN)&lt;/a&gt;, the Hankuk University of Foreign studies awarded me a research travel award.&lt;/p&gt;
 </description>
@@ -54,9 +54,9 @@
     
     <item>
       <title>PhD Scholarship Award</title>
-      <link>https://example.com/awards/hufs_4/</link>
+      <link>/awards/hufs_4/</link>
       <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/awards/hufs_4/</guid>
+      <guid>/awards/hufs_4/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;HUFS Foreign Student Scholarship for PhD studies (2016~2020).&lt;/p&gt;
 </description>

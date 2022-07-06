@@ -2,209 +2,209 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/conference/talk1/</loc>
+    <loc>/conference/talk1/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/services/membership/</loc>
+    <loc>/services/membership/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/weblinks/talk1/</loc>
+    <loc>/weblinks/talk1/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/conference/</loc>
+    <loc>/conference/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/weblinks/</loc>
+    <loc>/weblinks/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/services/</loc>
+    <loc>/services/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blogs/</loc>
+    <loc>/blogs/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/blogs/hufs_1/</loc>
+    <loc>/blogs/hufs_1/</loc>
     <lastmod>2022-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication-type/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/provanon_data/</loc>
+    <loc>/publication/provanon_data/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2021-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication-type/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/iee_iot_neat/</loc>
+    <loc>/publication/iee_iot_neat/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication-type/3/</loc>
+    <loc>/publication-type/3/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/provanon_arxiv/</loc>
+    <loc>/publication/provanon_arxiv/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/sofiots/</loc>
+    <loc>/project/sofiots/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/sofiots/</loc>
+    <loc>/tag/sofiots/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/provanon/</loc>
+    <loc>/tag/provanon/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/provanon/</loc>
+    <loc>/project/provanon/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post_notinuse/</loc>
+    <loc>/post_notinuse/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/awards/</loc>
+    <loc>/awards/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/category/research/</loc>
+    <loc>/category/research/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post_notinuse/getting-started/</loc>
+    <loc>/post_notinuse/getting-started/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/awards/grant_uom/</loc>
+    <loc>/awards/grant_uom/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/dqm/</loc>
+    <loc>/publication/dqm/</loc>
     <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication-type/7/</loc>
+    <loc>/publication-type/7/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/hufs_thesis/</loc>
+    <loc>/publication/hufs_thesis/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication-type/4/</loc>
+    <loc>/publication-type/4/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/iot_dq_itu_t/</loc>
+    <loc>/publication/iot_dq_itu_t/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/slides/provanon/</loc>
+    <loc>/slides/provanon/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/energies_19/</loc>
+    <loc>/publication/energies_19/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/category/travel/</loc>
+    <loc>/category/travel/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/awards/hufs_1/</loc>
+    <loc>/awards/hufs_1/</loc>
     <lastmod>2019-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/2019_2/</loc>
+    <loc>/publication/2019_2/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/2019_1/</loc>
+    <loc>/publication/2019_1/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/design_microservices/</loc>
+    <loc>/publication/design_microservices/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/2018_1/</loc>
+    <loc>/publication/2018_1/</loc>
     <lastmod>2018-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/2018_2/</loc>
+    <loc>/publication/2018_2/</loc>
     <lastmod>2018-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/ioe/</loc>
+    <loc>/project/ioe/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/ioe/</loc>
+    <loc>/tag/ioe/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/social_iot/</loc>
+    <loc>/publication/social_iot/</loc>
     <lastmod>2018-01-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/iot_resuability_sensor/</loc>
+    <loc>/publication/iot_resuability_sensor/</loc>
     <lastmod>2018-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/2017_3/</loc>
+    <loc>/publication/2017_3/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/2017_4/</loc>
+    <loc>/publication/2017_4/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/logistic_sensors/</loc>
+    <loc>/publication/logistic_sensors/</loc>
     <lastmod>2017-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/2017_5/</loc>
+    <loc>/publication/2017_5/</loc>
     <lastmod>2017-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/2017_1/</loc>
+    <loc>/publication/2017_1/</loc>
     <lastmod>2017-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/2017_6/</loc>
+    <loc>/publication/2017_6/</loc>
     <lastmod>2017-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/awards/hufs_2/</loc>
+    <loc>/awards/hufs_2/</loc>
     <lastmod>2017-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/2017_2/</loc>
+    <loc>/publication/2017_2/</loc>
     <lastmod>2017-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/awards/hufs_3/</loc>
+    <loc>/awards/hufs_3/</loc>
     <lastmod>2017-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/communiments/</loc>
+    <loc>/publication/communiments/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/emospaces/</loc>
+    <loc>/tag/emospaces/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/emospaces/</loc>
+    <loc>/project/emospaces/</loc>
     <lastmod>2016-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/woo/</loc>
+    <loc>/project/woo/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/woo-sas/</loc>
+    <loc>/tag/woo-sas/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/awards/hufs_4/</loc>
+    <loc>/awards/hufs_4/</loc>
     <lastmod>2016-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/publication/qau_thesis/</loc>
+    <loc>/publication/qau_thesis/</loc>
     <lastmod>2015-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tag/communiments/</loc>
+    <loc>/tag/communiments/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/project/communiments/</loc>
+    <loc>/project/communiments/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>/admin/</loc>
   </url><url>
-    <loc>https://example.com/authors/admin/</loc>
+    <loc>/authors/admin/</loc>
   </url>
 </urlset>

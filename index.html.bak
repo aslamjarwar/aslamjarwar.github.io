@@ -23,17 +23,17 @@
   
   
 
-  <meta name="author" content="Aslam Jarwar, Ph.D., AFHEA, SMIEEE" />
+  <meta name="author" content="Muhammad Aslam Jarwar, Ph.D., AFHEA, SMIEEE" />
 
   
   
   
     
   
-  <meta name="description" content="Researcher" />
+  <meta name="description" content="Senior Lecturer (Assistant Professor)" />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://example.com/" />
+  <link rel="alternate" hreflang="en-us" href="/" />
 
   
 
@@ -308,7 +308,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
 
-  <link rel="canonical" href="https://example.com/" />
+  <link rel="canonical" href="/" />
 
   
   
@@ -325,10 +325,10 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Aslam" />
-  <meta property="og:url" content="https://example.com/" />
+  <meta property="og:url" content="/" />
   <meta property="og:title" content="Aslam" />
-  <meta property="og:description" content="Researcher" /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="Senior Lecturer (Assistant Professor)" /><meta property="og:image" content="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00" />
@@ -343,10 +343,10 @@
   "@type": "WebSite",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://example.com/?q={search_term_string}",
+    "target": "?q={search_term_string}",
     "query-input": "required name=search_term_string"
   },
-  "url": "https://example.com/"
+  "url": ""
 }
 </script>
 
@@ -643,7 +643,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#teaching" data-target="#teaching"><span>Mentoring</span></a>
+          <a class="nav-link " href="/#teaching" data-target="#teaching"><span>Teaching</span></a>
         </li>
 
         
@@ -995,17 +995,17 @@
       
       <img class="avatar avatar-circle"
            width="270" height="270"
-           src="/authors/admin/avatar_hu08661e66fa6ec795ca4eb1d969b99e54_12741_270x270_fill_q75_lanczos_center.jpg" alt="Aslam Jarwar, Ph.D., AFHEA, SMIEEE">
+           src="/authors/admin/avatar_hu08661e66fa6ec795ca4eb1d969b99e54_12741_270x270_fill_q75_lanczos_center.jpg" alt="Muhammad Aslam Jarwar, Ph.D., AFHEA, SMIEEE">
       
 
       <div class="portrait-title">
-        <h2>Aslam Jarwar, Ph.D., AFHEA, SMIEEE</h2>
-        <h3>Researcher</h3>
+        <h2>Muhammad Aslam Jarwar, Ph.D., AFHEA, SMIEEE</h2>
+        <h3>Senior Lecturer (Assistant Professor)</h3>
 
         
         <h3>
-          <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=MAJAR17" target="_blank" rel="noopener">
-          <span>University College London</span>
+          <a href="https://www.shu.ac.uk/" target="_blank" rel="noopener">
+          <span>Sheffield Hallam University</span>
           </a>
         </h3>
         
@@ -1027,6 +1027,23 @@
         <li>
           <a href="https://scholar.google.com/citations?user=nQTE0W8AAAAJ&amp;hl=en" target="_blank" rel="noopener" aria-label="graduation-cap">
             <i class="fas fa-graduation-cap big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.semanticscholar.org/author/M.-Jarwar/10372764" target="_blank" rel="noopener" aria-label="ai-semantic-scholar">
+            <i class="fas fa-ai-semantic-scholar big-icon"></i>
           </a>
         </li>
         
@@ -1088,7 +1105,7 @@
   <div class="col-12 col-lg-8">
 
     
-    <h1>Biography</h1>
+    <h1>About me</h1>
 
     <div class="article-style">
       <style>
@@ -1109,10 +1126,11 @@ div.d {
 }
 </style>
 <div class="d">
-I am a senior research fellow  at  <a href="https://www.ucl.ac.uk/steapp/research/digital-technologies-policy-laboratory/petras-national-centre-excellence-iot-systems" target="_blank"> The PETRAS National Centre of Excellence for IoT Systems Cybersecurity at the Department of Science, Technology, Engineering, and Public Policy (STEaPP) </a>, <a href="https://www.ucl.ac.uk/" target="_blank">University College London.</a> I have developed and led various domestic and international  projects. I am the author of over dozen peer-reviewed  articles and  ITU-T technical recommendations published by <a href=https://www.itu.int/en/Pages/default.aspx target="_blank">ITU-T</a>.
-<p>My research focuses  on the Industrial Internet of things (IIoT)/Cyber Physical Systems  Security Modelling, IoT-enabled Context-aware data processing, Semantic reasoning, and Artificial Intelligence. Additionally, I am the editorial board member of Progress in Human Computer Interaction Journal, Managing Guest Editor for special issue on <a href=https://www.journals.elsevier.com/sustainable-energy-technologies-and-assessments/call-for-papers/call-for-papers-on-role-of-disruptive-technologies-in-modern-distribution-grid-automation target="_blank"> “Role of Disruptive Technologies in Modern Distribution Grid Automation” in Sustainable Energy Technologies and Assessments Journal</a> and I regularly review articles for IEEE Transactions on Industrial Informatics,  IEEE Transactions on Network Science and Engineering, IEEE Transactions on Computational Social Systems, IEEE Sensors Journal, Future Generation Computer System (FGCS), and other IEEE and Springer Q1 journals. I have  also served as a reviewer and TPC of various domestic and international conferences such as IEEE WCNC 2020-Workshop.</p>
-<p><strong>I am super excited to share that I am joining Sheffield Hallam University  as a Senior Lecturer IoT. Anyone interested to start Ph.D. or Master&rsquo;s studies with me can visit <a href=https://www.shu.ac.uk/research/degrees/apply target="_blank"> Link </a>  or directly contact me through email. </strong></p>
-</div>
+I am a Senior Lecturer (Assistant Professor) at the  <a href="https://www.shu.ac.uk/" target="_blank"> Department of Computing, Sheffield Hallam University(SHU)</a> and co-investigator for <a href="https://petras-iot.org/project/secure-ontologies-for-iot-systems-sofiots/" target="_blank">  the Secure Ontologies for IoT Systems (SOfIoTS)</a> project. I am also an  Associate Fellow of the Higher Education Academy <a href="/uploads/afhea.pdf" target="_blank">(AFHEA)</a>, UK, <a href="/uploads/smiee.pdf" target="_blank">Senior Member IEEE</a> and a private member of a <a href="https://digitaltwinhub.co.uk/networks/22-4dsig-members-only/" target="_blank">4-Dimensionalism Special Interest Group (4DSIG) Network</a>.
+ I was a Research Fellow for Industrial/Cyber-Physical System Security Modelling at the  <a href="https://www.ucl.ac.uk/steapp/research/digital-technologies-policy-laboratory/petras-national-centre-excellence-iot-systems" target="_blank"> Department of Science, Technology, Engineering, and Public Policy (STEaPP)</a>, <a href="https://www.ucl.ac.uk/" target="_blank">University College London (UCL)</a>, where I worked with  <a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=JWATS97" target="_blank"> Prof. Jeremy Watson</a>.  I was a Postdoctoral Researcher for the multidisciplinary project at the <a href="https://www.manchester.ac.uk/" target="_blank"> University of Manchester (UoM)</a> and the <a href="https://www.southampton.ac.uk/" target="_blank"> University of Southampton (UoS)</a>, where I worked with<a href="https://www.research.manchester.ac.uk/portal/mark.elliot.html" target="_blank"> Prof. Mark Elliot</a> and <a href="https://www.ecs.soton.ac.uk/people/ac1n16" target="_blank">Prof. Age Chapman</a>. While working at UoM and UoS, I reviewed and developed  provenance and ontological methods to model the security and privacy of sensitive streaming data.
+<p>I received the Ph.D. degree under the supervision of <a href="https://www.itu.int/en/ITU-T/Workshops-and-Seminars/iot/201703/Pages/Bios/CHONG-Il-Young.aspx" target="_blank">Prof. Ilyoung Chong</a> from the <a href="https://ice.hufs.ac.kr/ice/index.do" target="_blank">Department of Information Communications Engineering</a>, <a href="https://hufsenglish.hufs.ac.kr/" target="_blank">Hankuk University of Foreign Studies, South Korea</a>. I did the MS in Information Science and Technology from the <a href="http://cs.qau.edu.pk/" target="_blank">Department of Computer Sciences</a>, <a href="https://qau.edu.pk/" target="_blank">Quaid-i-Azam University, Islamabad, Pakistan</a>.</p>
+<p>My research focuses on the Industrial Internet of things (IIoT)/Cyber Physical Systems  Security Modelling, IoT-enabled Context-aware data processing, Semantic reasoning, and Artificial Intelligence. Currently, I am the Managing Guest Editor for special issue on <a href=https://www.journals.elsevier.com/sustainable-energy-technologies-and-assessments/call-for-papers/call-for-papers-on-role-of-disruptive-technologies-in-modern-distribution-grid-automation target="_blank"> “Role of Disruptive Technologies in Modern Distribution Grid Automation” in Sustainable Energy Technologies and Assessments Journal</a> and TPC for <a href=http://fse.green.edu.bd/sti-2022/ target="_blank">4th INTERNATIONAL CONFERENCE ON SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0</a>. Previously I was TPC for IEEE WCNC 2020, NCETIET-2020, <a href=https://imtic.muet.edu.pk/call/ target="_blank">IMTIC18</a>. I regularly review articles for IEEE Transactions on Industrial Informatics,  IEEE Transactions on Network Science and Engineering, IEEE Transactions on Computational Social Systems, IEEE Sensors Journal, Future Generation Computer System (FGCS), and other IEEE and Springer Q1 journals.
+Please get in touch with me if you are interested in my research and want to collaborate or pursue the Ph.D./Master&rsquo;s degree.</p>
 <p>
   <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/aslam_cv_29122021.pdf" target="_blank">resume</a>.[last updated 23.12.2021]</p>
 
@@ -1285,16 +1303,62 @@ I am a senior research fellow  at  <a href="https://www.ucl.ac.uk/steapp/researc
       <div class="card">
         <div class="card-body">
           <div class="d-flex align-content-start">
-            <div class="mr-2 mb-2"><a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener"><img src="/media/icons/brands/ucl.svg" width="56px" height="56px" alt="National Centre of Excellence in IoT Systems Cybersecurity, Department of Science, Technology, Engineering and Public Policy (STEaPP), University College London"></a></div>
+            <div class="mr-2 mb-2"><a href="https://www.shu.ac.uk/" target="_blank" rel="noopener"><img src="/media/icons/brands/shu.svg" width="56px" height="56px" alt="Department of Computing, Sheffield Hallam University, UK"></a></div>
             <div>
           
 
-              <div class="section-subheading card-title exp-title text-muted my-0">Senior Research Fellow - Industrial/Cyber-Physical System Security Modelling</div>
-              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener">National Centre of Excellence in IoT Systems Cybersecurity, Department of Science, Technology, Engineering and Public Policy (STEaPP), University College London</a></div>
+              <div class="section-subheading card-title exp-title text-muted my-0">Senior Lecturer</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.shu.ac.uk/" target="_blank" rel="noopener">Department of Computing, Sheffield Hallam University, UK</a></div>
+              <div class="text-muted exp-meta">
+                Jul 2022 –
+                
+                  Present
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Sheffield, S1 2NU, UK</span>
+                
+              </div>
+            </div>
+          </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener"><img src="/media/icons/brands/ucl.svg" width="56px" height="56px" alt="PETRAS National Centre of Excellence in IoT Systems Cybersecurity, Department of Science, Technology, Engineering and Public Policy (STEaPP), University College London"></a></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Research Fellow - Industrial/Cyber-Physical System Security Modelling</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener">PETRAS National Centre of Excellence in IoT Systems Cybersecurity, Department of Science, Technology, Engineering and Public Policy (STEaPP), University College London</a></div>
               <div class="text-muted exp-meta">
                 Nov 2021 –
                 
-                  Present
+                  Jun 2022
                 
                 
                   <span class="middot-divider"></span>
@@ -1305,7 +1369,7 @@ I am a senior research fellow  at  <a href="https://www.ucl.ac.uk/steapp/researc
           </div>
           
 
-          <div class="card-text"><p>Responsibilities include:</p>
+          <div class="card-text"><p>Responsibilities:</p>
 <ul>
 <li>Investigate the emerging security threats and potential impacts of cyber-attacks on industrial and building management systems (IBMS).</li>
 <li>Investigating the application of ontological methods to securely combining and fusing information from IoT sensors with data frameworks associated with Building Information Modelling (BIM) and Geographical Information Systems (GIS).</li>
@@ -1401,7 +1465,7 @@ I am a senior research fellow  at  <a href="https://www.ucl.ac.uk/steapp/researc
           </div>
           
 
-          <div class="card-text"><p>Responsibilities include:</p>
+          <div class="card-text"><p>Responsibilities:</p>
 <ul>
 <li>Investigate provenance models</li>
 <li>Reasoning over provenance data</li>
@@ -1453,7 +1517,7 @@ I am a senior research fellow  at  <a href="https://www.ucl.ac.uk/steapp/researc
           </div>
           
 
-          <div class="card-text"><p>Responsibilities include:</p>
+          <div class="card-text"><p>Responsibilities:</p>
 <ul>
 <li>Project planning</li>
 <li>IoT middleware development</li>
@@ -1507,7 +1571,7 @@ I am a senior research fellow  at  <a href="https://www.ucl.ac.uk/steapp/researc
           </div>
           
 
-          <div class="card-text"><p>Responsibilities include:</p>
+          <div class="card-text"><p>Responsibilities:</p>
 <ul>
 <li>Webservices development using open source technologies</li>
 <li>Data driven e-government strategic application development</li>
@@ -1888,7 +1952,7 @@ div.d {
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://unece.org/sites/default/files/2021-12/SDC2021_Day3_Elliot_AD.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/https:/unece.org/sites/default/files/2021-12/SDC2021_Day3_Elliot_AD.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1915,7 +1979,7 @@ div.d {
   
     
   
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://unece.org/sites/default/files/2021-12/SDC2021_Day3_Elliot_P.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/https:/unece.org/sites/default/files/2021-12/SDC2021_Day3_Elliot_P.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
@@ -1967,7 +2031,7 @@ div.d {
     
     <a href="/publication/iee_iot_neat/"  class="summary-link">
       <div class="article-style">
-        Published in IEEE Internet of Things Journal (Impact Factor=9.5)
+        Published in IEEE Internet of Things Journal
       </div>
     </a>
     
@@ -2108,7 +2172,7 @@ div.d {
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/pdf/2107.09966.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/https:/arxiv.org/pdf/2107.09966.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2175,7 +2239,7 @@ div.d {
     
     <a href="/publication/dqm/"  class="summary-link">
       <div class="article-style">
-        Published in Applied Sciences (Impact Factor=2.679)
+        Published in Applied Sciences
       </div>
     </a>
     
@@ -2310,7 +2374,7 @@ div.d {
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://library.hufs.ac.kr/#/search/detail/2032626" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/https:/library.hufs.ac.kr/#/search/detail/2032626" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -3349,7 +3413,7 @@ div.d {
         
           <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
             <h1 class="mb-0">Teaching</h1>
-            <p class="mt-1">supervising and mentoring</p>
+            <p class="mt-1">Supervising/Mentoring</p>
           </div>
         
       
@@ -3388,7 +3452,7 @@ div.d {
 </ul>
 <p><span style="font-size: 18px; color: rgb(124, 112, 107);"><strong>Bachelor’s Theses</strong></span></p>
 <ul>
-<li><b>Abdul Basit Qureshi</b>; Manchester Metropolitan University, UK (2020-).
+<li></b>..
 </li>
 </ul>
 <b>Past</b>
@@ -3520,7 +3584,6 @@ div.d {
 <ul>
 <li>Member, Senior Member IEEE (94189930)
 <li>Member, ACM (4513194)
-<li>UoM Representative, National Postdoc,  Steering Committee, United Kingdom
 <li>Member Editorial Board Progress in Human Computer Interaction Journal
 <li>Member, HUFS International Alumni Association
 <li>Member, CS QAU Alumni Association
@@ -3529,7 +3592,17 @@ div.d {
 </ul>
 <p><span style="font-size: 18px; color: rgb(124, 112, 107);"><strong>Past</strong></span></p>
 <ul>
-<li>Member, The Korean Institute of Communications and Information
+<li>Member, The Korean Institute of Communications and Information (2016-2020)
+<li>UoM Representative, National Postdoc,  Steering Committee, United Kingdom (2020-2021)
+</li>
+</ul>
+<b>TPC:</b>
+<ul>
+<li>
+<a href=http://fse.green.edu.bd/sti-2022/ target="_blank">4th INTERNATIONAL CONFERENCE ON SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0</a>
+</li>
+<li>
+<a href=https://sites.google.com/view/ieee-bc4tai-2022/home?authuser=0 target="_blank">IEEE BC4TAI 2022</a>
 </li>
 </ul>
 <b>Reviewer:</b>
@@ -4314,20 +4387,18 @@ div.d {
 }
 </style>
 <div class="d">
-<p><b>Research Laboratories</b> </br></p>
+<b>Journal Citation Reports</b> </br>
 <!-- <span style="font-size: 18px; color: rgb(124, 112, 107);"><strong>Guest Editor</strong></span> -->
-<ul>
+<li><a href=https://jcr.clarivate.com/jcr/home target="_blank">Clarivate JCR</a> </li>
+<b>Conferences and journals </b> </br>
+<!-- <span style="font-size: 18px; color: rgb(124, 112, 107);"><strong>Guest Editor</strong></span> -->
+<li><a href=https://research.com/conference-rankings/computer-science target="_blank"> List of top conferences </a> </li>
+<b>Research Laboratories</b> </br>
+<!-- <span style="font-size: 18px; color: rgb(124, 112, 107);"><strong>Guest Editor</strong></span> -->
 <li>KAUST University Saudi Arabia: <a href=https://cemse.kaust.edu.sa/netlab target="_blank"> Netlab Research Group</a> </li>
 <li>University of WaterLoo Canada: <a href=https://cs.uwaterloo.ca/~brecht/projects-new.html target="_blank"> System to support IoT</a> </li>
-</ul>
-<p><b>Conferences and journals </b> </br></p>
+<b>Tips to write a research statement, Teaching statement</b> </br>
 <!-- <span style="font-size: 18px; color: rgb(124, 112, 107);"><strong>Guest Editor</strong></span> -->
-<ul>
-<li><a href=https://research.com/conference-rankings/computer-science target="_blank"> List of top conferences </a> </li>
-</ul>
-<p><b>Tips to write a research statement, Teaching statement</b> </br></p>
-<!-- <span style="font-size: 18px; color: rgb(124, 112, 107);"><strong>Guest Editor</strong></span> -->
-<ul>
 <li> <a href=https://d3irk3g7luh32r.cloudfront.net/wp-content/uploads/sites/25/2016/06/Academic-Careers-Research-Statements-2017.pdf target="_blank"> ACADEMIC CAREERS: Research Statements</a></li></a>
 <li><a href=https://careerservices.upenn.edu/application-materials-for-the-faculty-job-search/research-statements-for-faculty-job-applications/ target="_blank">Research statements for faculty job applications</li></a>
 <li><a href=https://gradschool.cornell.edu/career-and-professional-development/pathways-to-success/prepare-for-your-career/take-action/research-statement/ target="_blank">Cornel University: Research statement</li></a>

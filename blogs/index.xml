@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Aslam</title>
-    <link>https://example.com/blogs/</link>
-      <atom:link href="https://example.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <link>/blogs/</link>
+      <atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://example.com/blogs/</link>
+      <link>/blogs/</link>
     </image>
     
     <item>
       <title>THE TALE OF THE DROWNED BEASTS - CHAPTER 1</title>
-      <link>https://example.com/blogs/hufs_1/</link>
+      <link>/blogs/hufs_1/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blogs/hufs_1/</guid>
+      <guid>/blogs/hufs_1/</guid>
       <description>&lt;style&gt;
 div.a {
   text-align: center;
