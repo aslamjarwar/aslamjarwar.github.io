@@ -5,12 +5,21 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Get your Foes Fooled: Proximal Gradient Split Learning for Defense against Model Inversion Attacks on IoMT data</title>
+      <link>/publication/tnse2022/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tnse2022/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100372437&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100372437&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NEAT: A Resilient Deep Representational Learning for Fault Detection using Acoustic Signals in IIoT Environment</title>
