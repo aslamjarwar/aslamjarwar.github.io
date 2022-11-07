@@ -53,6 +53,14 @@
     </item>
     
     <item>
+      <title>Industrial Internet of Things security modelling using ontological methods</title>
+      <link>/publication/iiotonto2022/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/iiotonto2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Things Data Interoperability Through Annotating oneM2M resources for NGSI-LD Entities</title>
       <link>/publication/thingsdata2022/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
@@ -175,7 +183,7 @@ The project will look at the Semantic Sensor Network (SSN) Ontology (w3.org), to
 &lt;/br&gt;
 &lt;b/&gt;Task and Responsibilities:&lt;/b&gt;
 &lt;ul&gt;
-&lt;li&gt;	Conducting substantive research within the SOfIoTs project into the issues/problems, ideas, concepts, or theories and applying appropriate methodologies.&lt;/li&gt;
+&lt;li&gt;	Conducting substantive research within the SOfIoTS project into the issues/problems, ideas, concepts, or theories and applying appropriate methodologies.&lt;/li&gt;
 &lt;li&gt;	Investigating the application of ontological methods to securely combining and fusing information from Internet of Things sensors with data frameworks associated with Building Information Modelling (BIM) and Geographical Information Systems (GIS).&lt;/li&gt;
 &lt;li&gt;	Work with industry partners to explore the application of hybrid ontologies to the development adaptive and futureproof Digital Twins, with application in Building Information Modelling (BIM) and Product Data Modelling.&lt;/li&gt;
 &lt;li&gt;	Investigate the emerging security threats, vulnerabilities, and potential impacts of cyber-attacks on industrial and building management systems (IBMS).&lt;/li&gt;

@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SOfIoTs | Aslam</title>
+    <title>SOfIoTS | Aslam</title>
     <link>/tag/sofiots/</link>
       <atom:link href="/tag/sofiots/index.xml" rel="self" type="application/rss+xml" />
-    <description>SOfIoTs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <description>SOfIoTS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>SOfIoTs</title>
+      <title>SOfIoTS</title>
       <link>/tag/sofiots/</link>
     </image>
+    
+    <item>
+      <title>Industrial Internet of Things security modelling using ontological methods</title>
+      <link>/publication/iiotonto2022/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/iiotonto2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Secure Ontologies for IoT Systems (SOfIoTS)</title>
@@ -45,7 +53,7 @@ The project will look at the Semantic Sensor Network (SSN) Ontology (w3.org), to
 &lt;/br&gt;
 &lt;b/&gt;Task and Responsibilities:&lt;/b&gt;
 &lt;ul&gt;
-&lt;li&gt;	Conducting substantive research within the SOfIoTs project into the issues/problems, ideas, concepts, or theories and applying appropriate methodologies.&lt;/li&gt;
+&lt;li&gt;	Conducting substantive research within the SOfIoTS project into the issues/problems, ideas, concepts, or theories and applying appropriate methodologies.&lt;/li&gt;
 &lt;li&gt;	Investigating the application of ontological methods to securely combining and fusing information from Internet of Things sensors with data frameworks associated with Building Information Modelling (BIM) and Geographical Information Systems (GIS).&lt;/li&gt;
 &lt;li&gt;	Work with industry partners to explore the application of hybrid ontologies to the development adaptive and futureproof Digital Twins, with application in Building Information Modelling (BIM) and Product Data Modelling.&lt;/li&gt;
 &lt;li&gt;	Investigate the emerging security threats, vulnerabilities, and potential impacts of cyber-attacks on industrial and building management systems (IBMS).&lt;/li&gt;
