@@ -1,272 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Aslam</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Academic</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://example.com/project/</link>
     </image>
     
     <item>
-      <title>Secure Ontologies for IoT Systems (SOfIoTS)</title>
-      <link>/project/sofiots/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/project/sofiots/</guid>
-      <description>&lt;style&gt;
-div.a {
-  text-align: center;
-}
-
-div.b {
-  text-align: left;
-}
-
-div.c {
-  text-align: right;
-}
-
-div.d {
-  text-align: justify;
-}
-&lt;/style&gt;
-&lt;div class=&#34;d&#34;&gt;
-The SOfIoTS project aims to understand and develop cybersecurity attributes for existing Industrial Internet of Things (IIoT) network ontologies to include machine learning at the Edge. The project’s planned outcomes will result in publications on which further academic endeavor can be built, whilst contributing to the understanding and methodologies of data security and assurance in Building Management Systems (BMS) in sensitive public buildings.
-&lt;br/&gt;The SOfIoTS project, in partnership with National Physical Laboratory (NPL), Cube Controls, RITICS, 4D-SIG and PETRAS SRF1 project, ELLIoTT, will undertake a comprehensive review of IoT Network Ontologies to identify gaps in security provision, particularly with respect to industrial, buildings and utilities control applications. This will draw upon experience and review data from RITICS and ELLIoTT.
-&lt;br/&gt;
-The project will look at the Semantic Sensor Network (SSN) Ontology (w3.org), to include local machine learning functionality, and to provide methods for mapping abstract representations to specific ‘in context’ configurations of application. The project will also create a dialogue to promote delivery and impact through RITICS and the 4D-SIG to the UK Digital Twins programme and to the Centre for Digital Built Britain.
-&lt;br/&gt;
-&lt;b&gt;Collaborations:&lt;/b&gt;
-&lt;br/&gt;&lt;a href=&#34;https://petras-iot.org/collaborate/&#34;&gt;Please refer project main website &lt;/a&gt;
-&lt;/br&gt;
-&lt;b/&gt;Task and Responsibilities:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;	Conducting substantive research within the SOfIoTS project into the issues/problems, ideas, concepts, or theories and applying appropriate methodologies.&lt;/li&gt;
-&lt;li&gt;	Investigating the application of ontological methods to securely combining and fusing information from Internet of Things sensors with data frameworks associated with Building Information Modelling (BIM) and Geographical Information Systems (GIS).&lt;/li&gt;
-&lt;li&gt;	Work with industry partners to explore the application of hybrid ontologies to the development adaptive and futureproof Digital Twins, with application in Building Information Modelling (BIM) and Product Data Modelling.&lt;/li&gt;
-&lt;li&gt;	Investigate the emerging security threats, vulnerabilities, and potential impacts of cyber-attacks on industrial and building management systems (IBMS).&lt;/li&gt;
-&lt;li&gt;	Liaise with industry partners to design, develop, and test (validate) an adaptive and secure ontological model for representing IoT-enabled socio-technical infrastructure system.&lt;/li&gt;
-&lt;li&gt;	Contribute to the drafting and submission of quality publications to appropriate and reputed peer-review national and international conferences and journals.&lt;/li&gt;
-&lt;li&gt;	Prepare and disseminate research outcomes through relevant academic and policy-themed workshops, and industrial forums.&lt;/li&gt;
-&lt;li&gt;	To prepare project progress reports on research for funding bodies as required.&lt;/li&gt;
-&lt;li&gt;	To help develop suitable relevant web resources for disseminating/socialising project progress and results through social media.&lt;/li&gt;
-&lt;li&gt;	Contributing ontological information systems insights into the wider research PETRAS programme.&lt;/li&gt;
-&lt;li&gt;	To work within project’s financial budget constraints. &lt;/li&gt;
-&lt;li&gt;	Contributing to the overall research activities with the research team at UCL including preparation and drafting of research bids and proposals.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
+      <title>Example Project</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Provenance and Anonymisation (PROVANON)</title>
-      <link>/project/provanon/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/project/provanon/</guid>
-      <description>&lt;style&gt;
-div.a {
-  text-align: center;
-}
-
-div.b {
-  text-align: left;
-}
-
-div.c {
-  text-align: right;
-}
-
-div.d {
-  text-align: justify;
-}
-&lt;/style&gt;
-&lt;div class=&#34;d&#34;&gt;
-PROVANON, a Turing Institute pilot project is examining how the use of provenance formalisms can be used to capture the necessary features of dynamic data situations to allow more principled analysis of risk, the requirements of anonymisation and related topics such as data ethics and utility. Data provenance is a record of creation and modification of data. It has many uses, including scientific reproducibility, debugging, and establishing trust in data. The insight driving this project is that the core elements of the data environment (agents with access to the data; supplementary data which might be integrated with the data; infrastructure in which the data is stored and processed; and governance of the data) have the potential to be mapped with W3C PROV [3]. W3C PROV is an interoperability standard for provenance that defines the actors, entities, and activities which together created the dataset, and the relationships between them. Using PROV, we can map where data came from, and how they were processed. The objectives of this project are to:
-&lt;ul&gt;
-&lt;li&gt;Undertake an analysis of modelling data environments, expressing terms as described in [1] using PROV concepts, including any domain-specific extensions to PROV that may be required to support this new usage.
-&lt;li&gt;Identify how to use provenance not only as a record of the development of the data, but also to help create contractual agreement in how data will be utilised after sharing, and how it can be used to support/comply with GDPR and other data privacy legislation.
-&lt;li&gt;Determine what improvements can be made to the operational power of the ADF by using the PROV representation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;b&gt;Collaborations:&lt;/b&gt;
-&lt;br/&gt;&lt;a href=&#34;https://www.turing.ac.uk/research/research-projects/anonymisation-and-provenance&#34;&gt;Please refer project main website &lt;/a&gt;
-&lt;/br&gt;
-&lt;b/&gt;Task and Responsibilities:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;Reasoning over provenance for analysing data situation in the data environments.
-&lt;li&gt;To Investigate models and approaches to automating and testing of compliance of data ethics, GDPR, etc.
-&lt;li&gt;To investigate Retrospective, Prospective, Prescriptive, Proscriptive provenance for expressing data situation and reasoning for anonymisation decisions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Internet of Energy (IoE) Data</title>
-      <link>/project/ioe/</link>
-      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/project/ioe/</guid>
-      <description>&lt;style&gt;
-div.a {
-  text-align: center;
-}
-
-div.b {
-  text-align: left;
-}
-
-div.c {
-  text-align: right;
-}
-
-div.d {
-  text-align: justify;
-}
-&lt;/style&gt;
-&lt;div class=&#34;d&#34;&gt;
-The main innovative aspect of IoE data was to design and develop the infrastructure and middlewares for energy data sharing with linked data and ontologies. It includes data representation, data interoperability, data quality and analytics for energy management services among the multiple stakeholders. The deep learning models have been applied to analyze the human activities and energy usage patterns for the efficient management of energy.
-&lt;br/&gt;
-&lt;b&gt;Collaborations:&lt;/b&gt;
-&lt;/br&gt;
-In this project, our partners were from the &lt;a href=&#34;https://english.kookmin.ac.kr/&#34;&gt;Kookmin University, Republic of Korea&lt;/a&gt;
-&lt;/br&gt;
-&lt;b&gt;Tasks and Responsibilities:&lt;/b&gt;
-&lt;ul&gt;
-  &lt;li&gt;To define the energy big data analytics environment.&lt;/li&gt;
-  &lt;li&gt;The semantically representation of energy big data in order to resolve the interoperability among various stakeholders.&lt;/li&gt;
-  &lt;li&gt;To perform data mining and analytics in order to create the knowledge from the energy data that will be used for energy efficiency decisions.&lt;/li&gt;
-  &lt;li&gt;To design and develop machine learning and deep learning model to detect user behavior and energy usage pattern that can be used in the modelling future needs of energy.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Enhanced Affective Wellbeing based on Emotion Technologies for adapting IoT spaces (EmoSpaces)</title>
-      <link>/project/emospaces/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/project/emospaces/</guid>
-      <description>&lt;style&gt;
-div.a {
-  text-align: center;
-}
-
-div.b {
-  text-align: left;
-}
-
-div.c {
-  text-align: right;
-}
-
-div.d {
-  text-align: justify;
-}
-&lt;/style&gt;
-&lt;div class=&#34;d&#34;&gt;
-The innovative aspect of this project were lies in considering emotion and sentiments as a context source for improving intelligent services in the IoT environment. In this project, our research focus was to develop an IoT data analytics and service provisioning platform that recognize the context and situation of user. The significance of this research was that the situation recognition and adaption based on the emotions leads to improving the service quality, users (such as elderly, teenager, etc) protection and privacy.
-&lt;b&gt;Collaborations:&lt;/b&gt;
-&lt;br/&gt;
-In this project, we collaborated with research laboratories from academia and industries from France , Spain, and Romania.
-The partners from France were:
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://thalesgroup.com/&#34;&gt;Thales &lt;/a&gt; , &lt;a href=&#34;https://www.st.com/&#34;&gt;STMicroelectronics&lt;/a&gt;, &lt;a href=&#34;http://lab.lissi.fr/&#34;&gt;UPEC University LISSI Lab &lt;/a&gt;, &lt;a href=&#34;http://www.arkamys.com/&#34;&gt; Arkamys &lt;/a&gt;, &lt;a href=&#34;http://cea.fr/&#34;&gt; CEA LIST &lt;/a&gt;, &lt;a href=&#34;http://www.maidis.fr/&#34;&gt;Maidis&lt;/a&gt; , &lt;a href=&#34;https://www.sorbonne-universite.fr/&#34;&gt;Sorbonne Université&lt;/a&gt;.
-&lt;li&gt;Our collaborators from Spain were &lt;a href=&#34;http://www.answare-tech.com/&#34;&gt;Answare&lt;/a&gt;, &lt;a href=&#34;http://emotionresearchlab.com/&#34;&gt;EMOTION RESEARCH LAB&lt;/a&gt;, &lt;a href=&#34;http://experis.es/&#34;&gt; Experis ManpowerGroup S.L.U&lt;/a&gt;, &lt;a href=&#34;http://www.iti.es/&#34;&gt;Instituto Tecnologico de Informatica&lt;/a&gt;, &lt;a href=&#34;http://taiger.com/&#34;&gt; Taiger&lt;/a&gt;, and &lt;a href=&#34;http://www.upm.es/&#34;&gt;Technical University of Madrid (UPM)&lt;/a&gt;.
-&lt;li&gt;The partners from Romania includes &lt;a href=&#34;http://www.beia.ro/&#34;&gt;Altfactor &lt;/a&gt;, and &lt;a href=&#34;http://www.altfactor.ro/&#34;&gt;BEIA Consult International&lt;/a&gt;.
-&lt;li&gt;Our domestic partners from Korea were &lt;a href=&#34;https://www.etri.re.kr/&#34;&gt;Electronics and Telecommunications Research Institute (ETRI)&lt;/a&gt;, &lt;a href=&#34;http://innopiatech.com/&#34;&gt; InnoPiaTech &lt;/a&gt;, and &lt;a href=&#34;http://smcore.co.kr/&#34;&gt;SmartCore Co Ltd&lt;/a&gt;.
-&lt;/ul&gt;
-&lt;b/&gt;Task and Responsibilities:&lt;/b&gt;
-&lt;ul&gt;
-&lt;li&gt;Took a leading role under the direction of principal investigator in order to define project plans and objectives.
-&lt;li&gt;Developed ontology-based semantic data models to represent, hide, and inference the knowledge regarding the privacy and provenance.
-&lt;li&gt;Developed the data collection environment in order to receive a very huge amount of data.
-&lt;li&gt;Representation of collected data semantically for the reasoning and inferencing of knowledge.
-&lt;li&gt;Detection the state of individuals through smart sensors (sensor + Big data-analytic, localization, activity, emotion).
-&lt;li&gt;Developed the dedicated IoT platform and build relevant and innovative use cases for various groups of users.
-&lt;li&gt;Arrange workshops, meetings, and different presentation sessions in order to resolve issues and share research outcomes with other stakeholders.
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Web Objects based Smart Aging Services (WoO-SAS)</title>
-      <link>/project/woo/</link>
-      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/project/woo/</guid>
-      <description>&lt;style&gt;
-div.a {
-  text-align: center;
-}
-
-div.b {
-  text-align: left;
-}
-
-div.c {
-  text-align: right;
-}
-
-div.d {
-  text-align: justify;
-}
-&lt;/style&gt;
-&lt;div class=&#34;d&#34;&gt;
-The aim of WoO-SAS (Web Objects based Smart Aging Services) project is to develop technologies and mechanisms to improve the life of a super-aging society. Some of the topics we are currently exploring include the development of self-Learning smart aging service objects, to design infrastructure for healthcare services to assist the elderly living, collecting and analyzing data from the wearable and non-wearable sensors in order to monitoring vital health conditions. The outcome of this project is the IoT data analytics and services platform which provides services to the elderly.
-&lt;/br&gt;
-&lt;b&gt;Collaborations:&lt;/b&gt;
-&lt;/br&gt;
-In this project, our partners were the &lt;a href=&#34;https://www.keti.re.kr/eng/&#34;&gt;Korea Electronics Technology Institute (KETI)&lt;/a&gt;, &lt;a href=&#34;https://www.etri.re.kr/eng/main/main.etri&#34;&gt; Electronics and Telecommunications Research Institute &lt;/a&gt; and HUFS Information System Lab.
-&lt;br/&gt;
-&lt;b&gt;Tasks and Responsibilities:&lt;/b&gt;
-&lt;ul&gt;
-  &lt;li&gt;Development of Self-Learning Smart Ageing Service using Web Objects and Artificial Neural Network.&lt;/li&gt;
-  &lt;li&gt;Design and developing of Infrastructure for healthcare services to assist elderly living.&lt;/li&gt;
-  &lt;li&gt;Designing semantic ontology for the efficient management of user centering services.&lt;/li&gt;
-  &lt;li&gt;Collecting and analyzing data from the wearable and non-wearable sensors in order to monitor health conditions and elderly behavior.&lt;/li&gt;
-  &lt;li&gt;Analyzing and enforcing user privacy in the data collection and analytic.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Detecting Event related Sentiments of a Community (CommuniMents)</title>
-      <link>/project/communiments/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/project/communiments/</guid>
-      <description>&lt;style&gt;
-div.a {
-  text-align: center;
-}
-
-div.b {
-  text-align: left;
-}
-
-div.c {
-  text-align: right;
-}
-
-div.d {
-  text-align: justify;
-}
-&lt;/style&gt;
-&lt;div class=&#34;d&#34;&gt;
-Social media has revolutionized human communication and styles of interaction. Due to its easiness and effective medium, people share and exchange information, carry out discussions on various events, and express their opinions. For effective policy making and understanding the response of a community on different events, we need to monitor and analyze social media. In social media, some users are more influential, for example, a famous politician may have more influence than a common person. These influential users belong to specific communities. The main objective of this project was to analyze the sentiments of a specific community on various events. For detecting the event-based sentiments of a community we developed a novel framework.
-&lt;/br&gt;
-&lt;b&gt;Tasks:&lt;/b&gt;
-&lt;ul&gt;
-&lt;/ui&gt;To detect communities from twitter data sets using snowball sampling.
-&lt;/ui&gt;To identify events based on demographic locations and topics using recurrent neural network.
-&lt;/ui&gt;To detect event wise sentiments of communities using deep using recurrent neural network.
-&lt;/ul&gt;
-&lt;/div&gt;
-</description>
+      <title>External Project</title>
+      <link>https://example.com/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/external-project/</guid>
+      <description></description>
     </item>
     
   </channel>
