@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WoO-SAS | </title>
+    <link>https://example.com/tag/woo-sas/</link>
+      <atom:link href="https://example.com/tag/woo-sas/index.xml" rel="self" type="application/rss+xml" />
+    <description>WoO-SAS</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>WoO-SAS</title>
+      <link>https://example.com/tag/woo-sas/</link>
+    </image>
+    
+    <item>
+      <title>Web Objects based Smart Aging Services (WoO-SAS)</title>
+      <link>https://example.com/project/woo/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/woo/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+The aim of WoO-SAS (Web Objects based Smart Aging Services) project is to develop technologies and mechanisms to improve the life of a super-aging society. Some of the topics we are currently exploring include the development of self-Learning smart aging service objects, to design infrastructure for healthcare services to assist the elderly living, collecting and analyzing data from the wearable and non-wearable sensors in order to monitoring vital health conditions. The outcome of this project is the IoT data analytics and services platform which provides services to the elderly.
+&lt;/br&gt;
+&lt;b&gt;Collaborations:&lt;/b&gt;
+&lt;/br&gt;
+In this project, our partners were the &lt;a href=&#34;https://www.keti.re.kr/eng/&#34;&gt;Korea Electronics Technology Institute (KETI)&lt;/a&gt;, &lt;a href=&#34;https://www.etri.re.kr/eng/main/main.etri&#34;&gt; Electronics and Telecommunications Research Institute &lt;/a&gt; and HUFS Information System Lab.
+&lt;br/&gt;
+&lt;b&gt;Tasks and Responsibilities:&lt;/b&gt;
+&lt;ul&gt;
+  &lt;li&gt;Development of Self-Learning Smart Ageing Service using Web Objects and Artificial Neural Network.&lt;/li&gt;
+  &lt;li&gt;Design and developing of Infrastructure for healthcare services to assist elderly living.&lt;/li&gt;
+  &lt;li&gt;Designing semantic ontology for the efficient management of user centering services.&lt;/li&gt;
+  &lt;li&gt;Collecting and analyzing data from the wearable and non-wearable sensors in order to monitor health conditions and elderly behavior.&lt;/li&gt;
+  &lt;li&gt;Analyzing and enforcing user privacy in the data collection and analytic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

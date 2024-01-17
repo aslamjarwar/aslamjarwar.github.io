@@ -1,0 +1,123 @@
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 30
+
+title: 'News'
+subtitle: 'Activities and Updates'
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 3
+---
+<style>
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+
+}
+
+</style>
+<div class="d">
+<ul>
+<li>[2022.11.07] I am pleased to share that I presented my paper at the 12th Conference of IoT at TU Delft, The Netherlands, <a href=https://twitter.com/PETRASiot/status/1589630466638110724 target=_blank>#IoTDelft</a>.  For more detail please visit <a href="https://iot-conference.org/iot2022/" target=_blank>conference page</a>. 
+</li>
+<li>[2022.10.04] Happy to share that I have been appointed as an Editorial Board Member of  IASC - Intelligent Automation & Soft Computing Journal which is indexed and abstracted in all major databases, including SCI, Scopus, EI Compendex, etc. (2021 SCI Impact Factor 3.401). For more detail please visit <a href="https://www.techscience.com/journal/iasc" target=_blank>IASC</a> page.
+</li>
+<li>[2022.10.04] Happy to share that Our Paper "Industrial Internet of Things Security Modelling using Ontological Methods"  has been accepted in the 12th International Conference on the Internet of Things, which will be held in  Delft - The Netherlands in November 2022. For more detail please visit <a href="https://iot-conference.org/iot2022/" target=_blank>conference page</a>.
+</li>
+<li>[2022.09.14] I am pleased to share that I have exhibited my <a href=https://twitter.com/PETRASiot target=_blank> @PETRASio</a> - <a href=https://twitter.com/hashtag/SOfIoTS?src=hashtag_click target=_blank> #SOfIoTS </a> research theme at the innovation conference on green future <a href=https://twitter.com/hashtag/HallamGreenFuture?src=hashtag_click target=_blank>#HallamGreenFuture</a>. I shared the research on <a href=https://twitter.com/hashtag/IoT?src=hashtag_click target=_blank>#IoT</a> devices & <a href=https://twitter.com/hashtag/DigitalTwins?src=hashtag_click target=_blank>#DigitalTwins</a> security modeling for CNIs & net-zero use cases. Thanks to <a href=https://twitter.com/HallamResearch target=_blank>@HallamResearch</a>  for organizing the fantastic event. Event Links <a href=https://twitter.com/aslamjarwar/status/1570178064621113344 target=_blank>Link1 </a>  <a href=https://www.eventbrite.co.uk/e/sheffield-hallam-innovation-conference-green-future-tickets-395170414347?lang=en-gb&locale=en_GB&status=30&view=listing target=_blank>Link2 </a>  
+</li>
+<li>[2022.08.01] I am pleased to share that our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/9852145"> "PROMPT: PROcess Mining and Paravector Tensor based Physical Health Monitoring Framework"</a> has been accepted and published in IEEE Sensor Journal (Impact Factor 4.325).
+</li>
+<li>[2022.07.14] I am happy to share that our paper titled <a href="https://ieeexplore.ieee.org/document/9817817"> "Get your foes fooled: Proximal Gradient Split Learning for Defense Against Model Inversion Attacks on IoMT data"</a> has been accepted and published in IEEE Transactions on Network Science And Engineering (Impact Factor 5.033).
+There are many methods proposed for data security but recently it has  been proven that AI models can be attacked to recover data, either from gradient maps or model parameters, i.e. model inversion attacks. Its one of the very early studies that proposes a learning network and technical method to cope with model inversion attacks.
+
+</li>
+<li>[2022.06.16~17] Presented our project results in PETRAS Academic Community Conference & Poster Exhibition, 16-17 June 2022, Location: Goodenough College London, UK.
+</li>
+<li>[2022.06.17] Our Paper "Things Data Interoperability Through Annotating oneM2M resources for NGSI-LD Entities"  has been accepted at the IEEE iThings 2022 conference, which will be held in  Espoo - Finland in August  2022.
+</li>
+
+<li>[2022.06.14] Attended  F2F meeting after very longtime. Location: Cisco Systems UK, 9-11 New Square, Feltham TW14 8HA UK.
+</li>
+
+<li>[2022.03.06] Invited as TPC member for the 4th INTERNATIONAL CONFERENCE ON SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0 (STI 2022) :  <a href="http://fse.green.edu.bd/sti-2022/"> link</a>
+</li>
+
+
+<li>[2022.03.06] Joined as TPC for Workshop on Blockchain Technologies for Trustworthy Decentralized AI Ecosystems, Espoo, Finland:  <a href="https://sites.google.com/view/ieee-bc4tai-2022/?fbclid=IwAR0uiUFttaEMs8R2E7w27XK3ZAPJ_SoVdWYBhYs4js1doFyW2Ba6SmSUCGo"> link</a>
+</li>
+<li>[2022.05.25] Attended  consultancy meeting on Cyber Physical Systems Infrastructure and Digital Twins. I presented my expert opinion and thoughts. This event was organized by the UKRI and Department for Business, Energy and Industrial Strategy. Location: 1 Sekforde Street EC1R 0BE London, UK.
+</li>
+<li>[2022.05.01] I am super excited to share that I am joining Sheffield Hallam University  as a Senior Lecturer IoT. Anyone interested to start Ph.D. or Master's studies with me can visit <a href=https://www.shu.ac.uk/research/degrees/apply target="_blank"> Link </a>  or directly contact me through email.
+</li>
+
+<li>[2022.05.01] I am pleased to share that I have been elevated to the grade of IEEE Senior member.
+</li>
+
+<li>[2022.03.06] Joined as TPC for Workshop on Blockchain Technologies for Trustworthy Decentralized AI Ecosystems, Espoo, Finland:  <a href="https://sites.google.com/view/ieee-bc4tai-2022/?fbclid=IwAR0uiUFttaEMs8R2E7w27XK3ZAPJ_SoVdWYBhYs4js1doFyW2Ba6SmSUCGo"> link</a>
+</li>
+
+<li>[2022.01.27] Attended 4D SIG Workshop: Covered topics include:  {{< staticref "news_upload/WSI Agenda 4D workshop 27 January 2022.pdf" "newtab" >}} 1. National Data Strategy and the Data Sharing Challenge{{< /staticref >}}
+, {{< staticref "news_upload/fileNotAvailable.pdf" "newtab" >}} 2. ESWG introduce the main group to what we are interested in and seeking to achieve{{< /staticref >}}
+, {{< staticref "news_upload/fileNotAvailable.pdf" "newtab" >}} 3. Digital Twin work at the Advanced Manufacturing Research Centre, AMRC Sheffield.{{< /staticref >}}
+</li>
+<li>[2022.01.06] I am invited by RMIT University, Australia, as an external examiner for  the PhD (Electrical & Electronic Engineering) thesis. </li>
+<li>[2021.11.25] Attended PETRAS Securing the Future: Knowledge Exchange & Networking Event (Virtual) <a href=https://petras-iot.org/">PETRAS</a>, <a href="https://www.eventbrite.co.uk/e/petras-securing-the-future-knowledge-exchange-networking-event-registration-173630572717">Event Link.</a> </li>
+<li>[2021.12.16] I am pleased to share that my VSI proposal on “Role of Disruptive Technologies in Modern Distribution Grid Automation” in Sustainable Energy Technologies and Assessments Journal. The Impact Factor of this journal is 5.353. Please visit <a href=https://bit.ly/3yAYpGF"> CFP link </a> for more detail.</li>
+<li>[2021.11.25] Attended PETRAS Securing the Future: Knowledge Exchange & Networking Event (Virtual) <a href=https://petras-iot.org/">PETRAS</a>, <a href="https://www.eventbrite.co.uk/e/petras-securing-the-future-knowledge-exchange-networking-event-registration-173630572717">Event Link.</a> </li>
+
+<li>[2021.09.30] Attended C-DICE Secondment Matchmaking virtual Event  <a href=https://www.cdice.ac.uk/">C-DICE</a>, <a href="https://www.eventbrite.co.uk/e/c-dice-secondment-matchmaking-event-tickets-168276592819?keep_tld=1">Event Link.</a> </li>
+
+<li>[2020.12.02] Attended The Brussels Privacy Symposium 2020 (Virtual):   <a href=https://www.eventbrite.co.uk/e/the-brussels-privacy-symposium-2020-virtual-registration-128653027669?keep_tld=1>Research and the Protection of Personal Data Under the GDPR.</a>
+</li>
+<li>
+[2020.10.07] Attended Protecting confidentiality and privacy in clinical trial and medical data sets,  (Virtual)  Organized by <a href=http://shorturl.at/mpEV7> Royal Statistical Society. </a>  
+</li>
+<li>
+[2019.01.23 to 25] Presented our paper in The Korean Institutes of Communications and Information Sciences (KICS) Winter Conference 2019, Yong Pyong Resort Pyeongchang-gun, Gangwon-do  <a href= http://conference.kics.or.kr/> Conference link.</a>
+</li>
+<li>
+[2019.01.18] Presented our technical report in  The 6th Focus Group on Data Processing and Management to support IoT and Smart Cities & Communities, Seoul, Korea (Rep.of)  <a href= https://extranet.itu.int/sites/itu-t/focusgroups/dpm/SitePages/Home.aspx> Conference link.</a>
+</li>
+<li>
+[2018.01.17 to 19] Presented our paper in  The 9th International Conference on Information and Communication Technology Convergence,  Jeju Island, Korea,  <a href= http://www.ictc2018.org/> Conference link.</a>
+</li><li>
+[2018.08.20 to 21] Presented our paper in The Summer Workshop on Computer Communications (SWCC 2018);  Hongcheon, Gangwon-do, <a href= http://www.kiise.or.kr/conference/conf/026/> Conference link.</a>
+</li>
+<li>
+[2017.02.08] Attended HSN-2017 High Speed Network Work shop, Jeju Island, Korea <a href= http://shorturl.at/dkEGY> Link.</a>
+</li>
+<li>
+[2017.01.18 to 20] Presented our paper in The 8th International Conference on Information and Communication Technology Convergence,  Jeju Island, Korea,  <a href= http://www.ictc2017.org/> Conference link.</a>
+</li><li>
+[2017.01.11 to 13] Presented our paper in The 31st International Conference on Information Networking (ICOIN)  Dan Nang, Vietnam, <a href=  http://2017.icoin.org/sub/sub01.asp?sub_param=1> Conference link.</a>
+</li>
+
+<li>
+[2016.08.22 to 23] Presented our paper in The Summer Workshop on Computer Communications (SWCC 2016);  Hongcheon, Gangwon-do, <a href= http://sigin.or.kr/xe/swcc/221>Workshop link.</a>
+</li><li>
+[2016.10.17 to 18] Attended 16 International Symposium on Perception, Action, and Cognitive Systems,  Seoul, Korea <a href=  http://www.kiise.or.kr/pacs/2016/> Link. </a>
+</li>
+</ul>

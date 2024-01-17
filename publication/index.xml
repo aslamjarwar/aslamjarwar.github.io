@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | </title>
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,55 +13,299 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>FRC-GIF: Frame Ranking-Based Personalized Artistic Media Generation Method for Resource Constrained Devices</title>
+      <link>https://example.com/publication/frc_gif/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/frc_gif/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21101019393&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21101019393&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Spike learning based privacy preservation of Internet of Medical Things in Metaverse</title>
+      <link>https://example.com/publication/spike_learning/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/spike_learning/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100256982&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100256982&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>6G assisted federated learning for continuous monitoring in wireless sensor network using game theory</title>
+      <link>https://example.com/publication/6gassisted/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/6gassisted/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=17569&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=17569&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>AI-oriented Smart Power System Transient Stability: The Rationality, Applications, Challenges and Future Opportunities</title>
+      <link>https://example.com/publication/seta2023/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/seta2023/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100239262&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100239262&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effective two-tier tokenization for intelligent transportation supply chain systems using hybrid optimized query expansion</title>
+      <link>https://example.com/publication/effective-two-tier/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/effective-two-tier/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=25627&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=25627&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maliciously roaming person&#39;s detection around hospital surface using intelligent cloud-edge based federated learning</title>
+      <link>https://example.com/publication/maliciously_roaming/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/maliciously_roaming/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=28499&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=28499&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industrial Internet of Things security modelling using ontological methods</title>
+      <link>https://example.com/publication/iiotonto2022/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iiotonto2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial Internet of Things security modelling using ontological methods</title>
+      <link>https://example.com/publication/taking_iot_next_level/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/taking_iot_next_level/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Things Data Interoperability Through Annotating oneM2M resources for NGSI-LD Entities</title>
+      <link>https://example.com/publication/thingsdata2022/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/thingsdata2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROMPT: PROcess Mining and Paravector Tensor based Physical Health Monitoring Framework</title>
+      <link>https://example.com/publication/ieee-sensor-2022/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ieee-sensor-2022/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=15047&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=15047&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get your Foes Fooled: Proximal Gradient Split Learning for Defense against Model Inversion Attacks on IoMT data</title>
+      <link>https://example.com/publication/tnse2022/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tnse2022/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100372437&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100372437&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling data environments within PROV to assist anonymisation decision-making</title>
+      <link>https://example.com/publication/provanon_data/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/provanon_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEAT: A Resilient Deep Representational Learning for Fault Detection using Acoustic Signals in IIoT Environment</title>
+      <link>https://example.com/publication/iee_iot_neat/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iee_iot_neat/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100338350&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100338350&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Provenance, Anonymisation and Data Environments: a Unifying Construction</title>
+      <link>https://example.com/publication/provanon_arxiv/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/provanon_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web objects based contextual data quality assessment model for semantic data application</title>
+      <link>https://example.com/publication/dqm/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dqm/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100829268&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100829268&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Quality Assessment based on Web of Objects for Healthcare Applications</title>
+      <link>https://example.com/publication/hufs_thesis/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hufs_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framework to support data quality management in IoT.” ITU-T Focus Group on Data Processing and Management to support IoT and Smart Cities &amp; Communities</title>
+      <link>https://example.com/publication/iot_dq_itu_t/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iot_dq_itu_t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio-Technical Security Modelling: Analysis of State-of-the-Art, Application, and Maturity in Critical Industrial Infrastructure Environments/Domains</title>
+      <link>https://example.com/publication/socio-technical/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/socio-technical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Microservices Model to Enhance the Availability of Data for Buildings Energy Efficiency Management Services</title>
+      <link>https://example.com/publication/energies_19/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/energies_19/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=62932&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=62932&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microservices based Framework to Support Interoperable IoT Applications for Enhanced Data Analytics</title>
+      <link>https://example.com/publication/2019_2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices based Linked Data Quality Model for Buildings Energy Management Services</title>
+      <link>https://example.com/publication/2019_1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Methodology of Microservices to Support Predictive Analytics for IoT Applications</title>
+      <link>https://example.com/publication/design_microservices/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/design_microservices/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=130124&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=130124&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring web objects enabled data-driven microservices for E-health service provision in IoT environment</title>
+      <link>https://example.com/publication/2018_1/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2018_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Objects based Framework for the Mining and Semantic Representation of Emotion Data.” Summer Workshop on Computer Communications,</title>
+      <link>https://example.com/publication/2018_2/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2018_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model of Socially Connected Web Objects for IoT Applications</title>
+      <link>https://example.com/publication/social_iot/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/social_iot/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=17543&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=17543&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microservices in Web Objects Enabled IoT Environment for Enhancing Reusability</title>
+      <link>https://example.com/publication/iot_resuability_sensor/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iot_resuability_sensor/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=130124&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=130124&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A framework to support data interoperability in web objects based IoT environments</title>
+      <link>https://example.com/publication/2017_3/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices model in WoO based IoT platform for depressive disorder assistance</title>
+      <link>https://example.com/publication/2017_4/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logistic model to support service modularity for the promotion of reusability in a Web Objects-Enabled IoT environment</title>
+      <link>https://example.com/publication/logistic_sensors/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/logistic_sensors/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=130124&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=130124&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smart spaces recommending service provisioning in WoO platform</title>
+      <link>https://example.com/publication/2017_5/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting interoperable microservices in web objects enabled Internet of Things</title>
+      <link>https://example.com/publication/2017_1/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web objects based energy efficiency for smart home IoT service provisioning.</title>
+      <link>https://example.com/publication/2017_6/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting IoT services by integrating emotion recognition in Web of Objects</title>
+      <link>https://example.com/publication/2017_2/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CommuniMents: A framework for detecting community based sentiments for events</title>
+      <link>https://example.com/publication/communiments/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/communiments/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=4900153220&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=4900153220&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Framework for Detecting Event related Sentiments of a Community</title>
+      <link>https://example.com/publication/qau_thesis/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/qau_thesis/</guid>
+      <description></description>
     </item>
     
   </channel>

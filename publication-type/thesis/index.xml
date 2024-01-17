@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thesis | </title>
+    <link>https://example.com/publication-type/thesis/</link>
+      <atom:link href="https://example.com/publication-type/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>thesis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>thesis</title>
+      <link>https://example.com/publication-type/thesis/</link>
+    </image>
+    
+    <item>
+      <title>Data Quality Assessment based on Web of Objects for Healthcare Applications</title>
+      <link>https://example.com/publication/hufs_thesis/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hufs_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework for Detecting Event related Sentiments of a Community</title>
+      <link>https://example.com/publication/qau_thesis/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/qau_thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

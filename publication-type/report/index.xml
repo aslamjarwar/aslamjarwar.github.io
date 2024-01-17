@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>report | </title>
+    <link>https://example.com/publication-type/report/</link>
+      <atom:link href="https://example.com/publication-type/report/index.xml" rel="self" type="application/rss+xml" />
+    <description>report</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>report</title>
+      <link>https://example.com/publication-type/report/</link>
+    </image>
+    
+    <item>
+      <title>Framework to support data quality management in IoT.” ITU-T Focus Group on Data Processing and Management to support IoT and Smart Cities &amp; Communities</title>
+      <link>https://example.com/publication/iot_dq_itu_t/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iot_dq_itu_t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio-Technical Security Modelling: Analysis of State-of-the-Art, Application, and Maturity in Critical Industrial Infrastructure Environments/Domains</title>
+      <link>https://example.com/publication/socio-technical/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/socio-technical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

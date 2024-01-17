@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>paper-conference | Academic</title>
+    <title>paper-conference | </title>
     <link>https://example.com/publication-type/paper-conference/</link>
       <atom:link href="https://example.com/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>paper-conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>paper-conference</title>
@@ -13,10 +13,122 @@
     </image>
     
     <item>
+      <title>Industrial Internet of Things security modelling using ontological methods</title>
+      <link>https://example.com/publication/iiotonto2022/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iiotonto2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial Internet of Things security modelling using ontological methods</title>
+      <link>https://example.com/publication/taking_iot_next_level/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/taking_iot_next_level/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Things Data Interoperability Through Annotating oneM2M resources for NGSI-LD Entities</title>
+      <link>https://example.com/publication/thingsdata2022/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/thingsdata2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling data environments within PROV to assist anonymisation decision-making</title>
+      <link>https://example.com/publication/provanon_data/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/provanon_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices based Framework to Support Interoperable IoT Applications for Enhanced Data Analytics</title>
+      <link>https://example.com/publication/2019_2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices based Linked Data Quality Model for Buildings Energy Management Services</title>
+      <link>https://example.com/publication/2019_1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring web objects enabled data-driven microservices for E-health service provision in IoT environment</title>
+      <link>https://example.com/publication/2018_1/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2018_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Objects based Framework for the Mining and Semantic Representation of Emotion Data.” Summer Workshop on Computer Communications,</title>
+      <link>https://example.com/publication/2018_2/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2018_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework to support data interoperability in web objects based IoT environments</title>
+      <link>https://example.com/publication/2017_3/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices model in WoO based IoT platform for depressive disorder assistance</title>
+      <link>https://example.com/publication/2017_4/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart spaces recommending service provisioning in WoO platform</title>
+      <link>https://example.com/publication/2017_5/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting interoperable microservices in web objects enabled Internet of Things</title>
+      <link>https://example.com/publication/2017_1/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web objects based energy efficiency for smart home IoT service provisioning.</title>
+      <link>https://example.com/publication/2017_6/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting IoT services by integrating emotion recognition in Web of Objects</title>
+      <link>https://example.com/publication/2017_2/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>https://example.com/extras/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>https://example.com/extras/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoE | </title>
+    <link>https://example.com/tag/ioe/</link>
+      <atom:link href="https://example.com/tag/ioe/index.xml" rel="self" type="application/rss+xml" />
+    <description>IoE</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>IoE</title>
+      <link>https://example.com/tag/ioe/</link>
+    </image>
+    
+    <item>
+      <title>Internet of Energy (IoE) Data</title>
+      <link>https://example.com/project/ioe/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ioe/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+The main innovative aspect of IoE data was to design and develop the infrastructure and middlewares for energy data sharing with linked data and ontologies. It includes data representation, data interoperability, data quality and analytics for energy management services among the multiple stakeholders. The deep learning models have been applied to analyze the human activities and energy usage patterns for the efficient management of energy.
+&lt;br/&gt;
+&lt;b&gt;Collaborations:&lt;/b&gt;
+&lt;/br&gt;
+In this project, our partners were from the &lt;a href=&#34;https://english.kookmin.ac.kr/&#34;&gt;Kookmin University, Republic of Korea&lt;/a&gt;
+&lt;/br&gt;
+&lt;b&gt;Tasks and Responsibilities:&lt;/b&gt;
+&lt;ul&gt;
+  &lt;li&gt;To define the energy big data analytics environment.&lt;/li&gt;
+  &lt;li&gt;The semantically representation of energy big data in order to resolve the interoperability among various stakeholders.&lt;/li&gt;
+  &lt;li&gt;To perform data mining and analytics in order to create the knowledge from the energy data that will be used for energy efficiency decisions.&lt;/li&gt;
+  &lt;li&gt;To design and develop machine learning and deep learning model to detect user behavior and energy usage pattern that can be used in the modelling future needs of energy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

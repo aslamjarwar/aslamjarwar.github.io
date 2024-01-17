@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>communiments | </title>
+    <link>https://example.com/tag/communiments/</link>
+      <atom:link href="https://example.com/tag/communiments/index.xml" rel="self" type="application/rss+xml" />
+    <description>communiments</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>communiments</title>
+      <link>https://example.com/tag/communiments/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Event related Sentiments of a Community (CommuniMents)</title>
+      <link>https://example.com/project/communiments/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/communiments/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+Social media has revolutionized human communication and styles of interaction. Due to its easiness and effective medium, people share and exchange information, carry out discussions on various events, and express their opinions. For effective policy making and understanding the response of a community on different events, we need to monitor and analyze social media. In social media, some users are more influential, for example, a famous politician may have more influence than a common person. These influential users belong to specific communities. The main objective of this project was to analyze the sentiments of a specific community on various events. For detecting the event-based sentiments of a community we developed a novel framework.
+&lt;/br&gt;
+&lt;b&gt;Tasks:&lt;/b&gt;
+&lt;ul&gt;
+&lt;/ui&gt;To detect communities from twitter data sets using snowball sampling.
+&lt;/ui&gt;To identify events based on demographic locations and topics using recurrent neural network.
+&lt;/ui&gt;To detect event wise sentiments of communities using deep using recurrent neural network.
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

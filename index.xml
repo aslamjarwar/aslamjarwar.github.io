@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title></title>
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description></description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title></title>
       <link>https://example.com/</link>
     </image>
     
@@ -33,10 +33,19 @@
     </item>
     
     <item>
+      <title>FRC-GIF: Frame Ranking-Based Personalized Artistic Media Generation Method for Resource Constrained Devices</title>
+      <link>https://example.com/publication/frc_gif/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/frc_gif/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21101019393&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21101019393&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>https://example.com/post/blog-with-jupyter/</link>
+      <link>https://example.com/extras/news/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/blog-with-jupyter/</guid>
+      <guid>https://example.com/extras/news/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -58,10 +67,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_cdb6e311e2a1735dbf10e762428f706e.webp 400w,
-               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_fc9bbb87927669af314bc8ac65d9d90e.webp 760w,
-               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_cdb6e311e2a1735dbf10e762428f706e.webp&#34;
+               /extras/news/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
+               /extras/news/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
+               /extras/news/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/extras/news/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -80,10 +89,161 @@
     </item>
     
     <item>
+      <title>Spike learning based privacy preservation of Internet of Medical Things in Metaverse</title>
+      <link>https://example.com/publication/spike_learning/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/spike_learning/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100256982&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100256982&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>6G assisted federated learning for continuous monitoring in wireless sensor network using game theory</title>
+      <link>https://example.com/publication/6gassisted/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/6gassisted/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=17569&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=17569&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI-oriented Smart Power System Transient Stability: The Rationality, Applications, Challenges and Future Opportunities</title>
+      <link>https://example.com/publication/seta2023/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/seta2023/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100239262&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100239262&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effective two-tier tokenization for intelligent transportation supply chain systems using hybrid optimized query expansion</title>
+      <link>https://example.com/publication/effective-two-tier/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/effective-two-tier/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=25627&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=25627&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maliciously roaming person&#39;s detection around hospital surface using intelligent cloud-edge based federated learning</title>
+      <link>https://example.com/publication/maliciously_roaming/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/maliciously_roaming/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=28499&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=28499&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industrial Internet of Things security modelling using ontological methods</title>
+      <link>https://example.com/publication/iiotonto2022/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iiotonto2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industrial Internet of Things security modelling using ontological methods</title>
+      <link>https://example.com/publication/taking_iot_next_level/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/taking_iot_next_level/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Things Data Interoperability Through Annotating oneM2M resources for NGSI-LD Entities</title>
+      <link>https://example.com/publication/thingsdata2022/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/thingsdata2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROMPT: PROcess Mining and Paravector Tensor based Physical Health Monitoring Framework</title>
+      <link>https://example.com/publication/ieee-sensor-2022/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ieee-sensor-2022/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=15047&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=15047&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Get your Foes Fooled: Proximal Gradient Split Learning for Defense against Model Inversion Attacks on IoMT data</title>
+      <link>https://example.com/publication/tnse2022/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/tnse2022/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100372437&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100372437&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>THE TALE OF THE DROWNED BEASTS - CHAPTER 1</title>
+      <link>https://example.com/blogs/hufs_1/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blogs/hufs_1/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+&lt;p&gt;Far away, from the lands of the mighty titans stood a magnificent castle made from stone. On the glorious, majestic Throne sat the one and only, King Daniel the III, he was a good King as he could be, hosting events, banquets and much more. The kingdom itself was protective indeed, elite archers, mighty commanders, and brave knights with strong Armor. Until the fearsome drowned, sharp-teeth monsters charged towards the hopeless kingdom and destroyed all what was left. But one day, a fearless hero arrived and fought them off, I’m going to tell you a story you never expected.
+&lt;/br&gt;
+It was a happy, bright day. The market people were filled with charming smiles on their faces. It was a cacophony of people talking, gossiping, and laughing. The stalls were filled with apples, valuables and jewellery.
+&lt;/br&gt;
+“May I have these 3 apples?” asked a Boy.
+&lt;/br&gt;
+“Sure, it will be 6 coins!” replied the Shopkeeper
+&lt;/br&gt;
+“Alright, here you go.” said the boy
+&lt;/br&gt;
+He handed 6 shiny, golden coins to the Shopkeeper with respect, he was quite sensible and kind to the people around him. He took the 3 apples and sprinted to the wooden, stables, there were 3 beautiful stallions, so he decided to give one each to the Horses. After feeding them, he heard a man shouting as he was screaming.
+“Help! A Robber has stolen my precious gold!” shouted the man.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling data environments within PROV to assist anonymisation decision-making</title>
+      <link>https://example.com/publication/provanon_data/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/provanon_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEAT: A Resilient Deep Representational Learning for Fault Detection using Acoustic Signals in IIoT Environment</title>
+      <link>https://example.com/publication/iee_iot_neat/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iee_iot_neat/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100338350&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100338350&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Provenance, Anonymisation and Data Environments: a Unifying Construction</title>
+      <link>https://example.com/publication/provanon_arxiv/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/provanon_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://example.com/extras/news/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://example.com/extras/news/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -160,10 +320,145 @@
     </item>
     
     <item>
+      <title>Secure Ontologies for IoT Systems (SOfIoTS)</title>
+      <link>https://example.com/project/sofiots/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/sofiots/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+The SOfIoTS project aims to understand and develop cybersecurity attributes for existing Industrial Internet of Things (IIoT) network ontologies to include machine learning at the Edge. The project’s planned outcomes will result in publications on which further academic endeavor can be built, whilst contributing to the understanding and methodologies of data security and assurance in Building Management Systems (BMS) in sensitive public buildings.
+&lt;br/&gt;The SOfIoTS project, in partnership with National Physical Laboratory (NPL), Cube Controls, RITICS, 4D-SIG and PETRAS SRF1 project, ELLIoTT, will undertake a comprehensive review of IoT Network Ontologies to identify gaps in security provision, particularly with respect to industrial, buildings and utilities control applications. This will draw upon experience and review data from RITICS and ELLIoTT.
+&lt;br/&gt;
+The project will look at the Semantic Sensor Network (SSN) Ontology (w3.org), to include local machine learning functionality, and to provide methods for mapping abstract representations to specific ‘in context’ configurations of application. The project will also create a dialogue to promote delivery and impact through RITICS and the 4D-SIG to the UK Digital Twins programme and to the Centre for Digital Built Britain.
+&lt;br/&gt;
+&lt;b&gt;Collaborations:&lt;/b&gt;
+&lt;br/&gt;&lt;a href=&#34;https://petras-iot.org/collaborate/&#34;&gt;Please refer project main website &lt;/a&gt;
+&lt;/br&gt;
+&lt;b/&gt;Task and Responsibilities:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;	Conducting substantive research within the SOfIoTS project into the issues/problems, ideas, concepts, or theories and applying appropriate methodologies.&lt;/li&gt;
+&lt;li&gt;	Investigating the application of ontological methods to securely combining and fusing information from Internet of Things sensors with data frameworks associated with Building Information Modelling (BIM) and Geographical Information Systems (GIS).&lt;/li&gt;
+&lt;li&gt;	Work with industry partners to explore the application of hybrid ontologies to the development adaptive and futureproof Digital Twins, with application in Building Information Modelling (BIM) and Product Data Modelling.&lt;/li&gt;
+&lt;li&gt;	Investigate the emerging security threats, vulnerabilities, and potential impacts of cyber-attacks on industrial and building management systems (IBMS).&lt;/li&gt;
+&lt;li&gt;	Liaise with industry partners to design, develop, and test (validate) an adaptive and secure ontological model for representing IoT-enabled socio-technical infrastructure system.&lt;/li&gt;
+&lt;li&gt;	Contribute to the drafting and submission of quality publications to appropriate and reputed peer-review national and international conferences and journals.&lt;/li&gt;
+&lt;li&gt;	Prepare and disseminate research outcomes through relevant academic and policy-themed workshops, and industrial forums.&lt;/li&gt;
+&lt;li&gt;	To prepare project progress reports on research for funding bodies as required.&lt;/li&gt;
+&lt;li&gt;	To help develop suitable relevant web resources for disseminating/socialising project progress and results through social media.&lt;/li&gt;
+&lt;li&gt;	Contributing ontological information systems insights into the wider research PETRAS programme.&lt;/li&gt;
+&lt;li&gt;	To work within project’s financial budget constraints. &lt;/li&gt;
+&lt;li&gt;	Contributing to the overall research activities with the research team at UCL including preparation and drafting of research bids and proposals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Provenance and Anonymisation (PROVANON)</title>
+      <link>https://example.com/project/provanon/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/provanon/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+PROVANON, a Turing Institute pilot project is examining how the use of provenance formalisms can be used to capture the necessary features of dynamic data situations to allow more principled analysis of risk, the requirements of anonymisation and related topics such as data ethics and utility. Data provenance is a record of creation and modification of data. It has many uses, including scientific reproducibility, debugging, and establishing trust in data. The insight driving this project is that the core elements of the data environment (agents with access to the data; supplementary data which might be integrated with the data; infrastructure in which the data is stored and processed; and governance of the data) have the potential to be mapped with W3C PROV [3]. W3C PROV is an interoperability standard for provenance that defines the actors, entities, and activities which together created the dataset, and the relationships between them. Using PROV, we can map where data came from, and how they were processed. The objectives of this project are to:
+&lt;ul&gt;
+&lt;li&gt;Undertake an analysis of modelling data environments, expressing terms as described in [1] using PROV concepts, including any domain-specific extensions to PROV that may be required to support this new usage.
+&lt;li&gt;Identify how to use provenance not only as a record of the development of the data, but also to help create contractual agreement in how data will be utilised after sharing, and how it can be used to support/comply with GDPR and other data privacy legislation.
+&lt;li&gt;Determine what improvements can be made to the operational power of the ADF by using the PROV representation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;b&gt;Collaborations:&lt;/b&gt;
+&lt;br/&gt;&lt;a href=&#34;https://www.turing.ac.uk/research/research-projects/anonymisation-and-provenance&#34;&gt;Please refer project main website &lt;/a&gt;
+&lt;/br&gt;
+&lt;b/&gt;Task and Responsibilities:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;Reasoning over provenance for analysing data situation in the data environments.
+&lt;li&gt;To Investigate models and approaches to automating and testing of compliance of data ethics, GDPR, etc.
+&lt;li&gt;To investigate Retrospective, Prospective, Prescriptive, Proscriptive provenance for expressing data situation and reasoning for anonymisation decisions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Award</title>
+      <link>https://example.com/awards/grant_uom/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/awards/grant_uom/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In a highly competitive inter departmental research proposal competition at the University of Manchester I won a small amount of research grant . This funding will be used for arranging workshops,   research collaboration, networking and personal development.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web objects based contextual data quality assessment model for semantic data application</title>
+      <link>https://example.com/publication/dqm/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dqm/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100829268&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100829268&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Quality Assessment based on Web of Objects for Healthcare Applications</title>
+      <link>https://example.com/publication/hufs_thesis/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hufs_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Framework to support data quality management in IoT.” ITU-T Focus Group on Data Processing and Management to support IoT and Smart Cities &amp; Communities</title>
+      <link>https://example.com/publication/iot_dq_itu_t/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iot_dq_itu_t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio-Technical Security Modelling: Analysis of State-of-the-Art, Application, and Maturity in Critical Industrial Infrastructure Environments/Domains</title>
+      <link>https://example.com/publication/socio-technical/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/socio-technical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>https://example.com/extras/news/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>https://example.com/extras/news/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -263,7 +558,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-481629573&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-654382917&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -273,7 +568,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-481629573&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-654382917&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -554,20 +849,6 @@ Crash --&gt; [*]
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Slides</title>
       <link>https://example.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -693,31 +974,322 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>A Microservices Model to Enhance the Availability of Data for Buildings Energy Efficiency Management Services</title>
+      <link>https://example.com/publication/energies_19/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/energies_19/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=62932&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=62932&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <title>Travel Award</title>
+      <link>https://example.com/awards/hufs_1/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/awards/hufs_1/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In order to present my research paper in a local conference, the Hankuk University of Foreign studies awarded me a research travel award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microservices based Framework to Support Interoperable IoT Applications for Enhanced Data Analytics</title>
+      <link>https://example.com/publication/2019_2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices based Linked Data Quality Model for Buildings Energy Management Services</title>
+      <link>https://example.com/publication/2019_1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Methodology of Microservices to Support Predictive Analytics for IoT Applications</title>
+      <link>https://example.com/publication/design_microservices/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/design_microservices/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=130124&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=130124&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring web objects enabled data-driven microservices for E-health service provision in IoT environment</title>
+      <link>https://example.com/publication/2018_1/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2018_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Objects based Framework for the Mining and Semantic Representation of Emotion Data.” Summer Workshop on Computer Communications,</title>
+      <link>https://example.com/publication/2018_2/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2018_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of Energy (IoE) Data</title>
+      <link>https://example.com/project/ioe/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ioe/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+The main innovative aspect of IoE data was to design and develop the infrastructure and middlewares for energy data sharing with linked data and ontologies. It includes data representation, data interoperability, data quality and analytics for energy management services among the multiple stakeholders. The deep learning models have been applied to analyze the human activities and energy usage patterns for the efficient management of energy.
+&lt;br/&gt;
+&lt;b&gt;Collaborations:&lt;/b&gt;
+&lt;/br&gt;
+In this project, our partners were from the &lt;a href=&#34;https://english.kookmin.ac.kr/&#34;&gt;Kookmin University, Republic of Korea&lt;/a&gt;
+&lt;/br&gt;
+&lt;b&gt;Tasks and Responsibilities:&lt;/b&gt;
+&lt;ul&gt;
+  &lt;li&gt;To define the energy big data analytics environment.&lt;/li&gt;
+  &lt;li&gt;The semantically representation of energy big data in order to resolve the interoperability among various stakeholders.&lt;/li&gt;
+  &lt;li&gt;To perform data mining and analytics in order to create the knowledge from the energy data that will be used for energy efficiency decisions.&lt;/li&gt;
+  &lt;li&gt;To design and develop machine learning and deep learning model to detect user behavior and energy usage pattern that can be used in the modelling future needs of energy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Model of Socially Connected Web Objects for IoT Applications</title>
+      <link>https://example.com/publication/social_iot/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/social_iot/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=17543&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=17543&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microservices in Web Objects Enabled IoT Environment for Enhancing Reusability</title>
+      <link>https://example.com/publication/iot_resuability_sensor/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iot_resuability_sensor/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=130124&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=130124&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A framework to support data interoperability in web objects based IoT environments</title>
+      <link>https://example.com/publication/2017_3/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices model in WoO based IoT platform for depressive disorder assistance</title>
+      <link>https://example.com/publication/2017_4/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logistic model to support service modularity for the promotion of reusability in a Web Objects-Enabled IoT environment</title>
+      <link>https://example.com/publication/logistic_sensors/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/logistic_sensors/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=130124&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=130124&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smart spaces recommending service provisioning in WoO platform</title>
+      <link>https://example.com/publication/2017_5/</link>
+      <pubDate>Tue, 08 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting interoperable microservices in web objects enabled Internet of Things</title>
+      <link>https://example.com/publication/2017_1/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web objects based energy efficiency for smart home IoT service provisioning.</title>
+      <link>https://example.com/publication/2017_6/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel Award</title>
+      <link>https://example.com/awards/hufs_2/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/awards/hufs_2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In order to visit  IoT lab at Jeju National University , the Hankuk University of Foreign studies awarded me a research travel award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploiting IoT services by integrating emotion recognition in Web of Objects</title>
+      <link>https://example.com/publication/2017_2/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2017_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel Award Dan Nang, Vietnam</title>
+      <link>https://example.com/awards/hufs_3/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/awards/hufs_3/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;In order to present my research paper in a &lt;a href=&#34;http://2017.icoin.org/main/index.html&#34; target=&#34;_blank&#34;&gt;The 31st International Conference on Information Networking (ICOIN)&lt;/a&gt;, the Hankuk University of Foreign studies awarded me a research travel award.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CommuniMents: A framework for detecting community based sentiments for events</title>
+      <link>https://example.com/publication/communiments/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/communiments/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=4900153220&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=4900153220&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhanced Affective Wellbeing based on Emotion Technologies for adapting IoT spaces (EmoSpaces)</title>
+      <link>https://example.com/project/emospaces/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/emospaces/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+The innovative aspect of this project were lies in considering emotion and sentiments as a context source for improving intelligent services in the IoT environment. In this project, our research focus was to develop an IoT data analytics and service provisioning platform that recognize the context and situation of user. The significance of this research was that the situation recognition and adaption based on the emotions leads to improving the service quality, users (such as elderly, teenager, etc) protection and privacy.
+&lt;b&gt;Collaborations:&lt;/b&gt;
+&lt;br/&gt;
+In this project, we collaborated with research laboratories from academia and industries from France , Spain, and Romania.
+The partners from France were:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://thalesgroup.com/&#34;&gt;Thales &lt;/a&gt; , &lt;a href=&#34;https://www.st.com/&#34;&gt;STMicroelectronics&lt;/a&gt;, &lt;a href=&#34;http://lab.lissi.fr/&#34;&gt;UPEC University LISSI Lab &lt;/a&gt;, &lt;a href=&#34;http://www.arkamys.com/&#34;&gt; Arkamys &lt;/a&gt;, &lt;a href=&#34;http://cea.fr/&#34;&gt; CEA LIST &lt;/a&gt;, &lt;a href=&#34;http://www.maidis.fr/&#34;&gt;Maidis&lt;/a&gt; , &lt;a href=&#34;https://www.sorbonne-universite.fr/&#34;&gt;Sorbonne Université&lt;/a&gt;.
+&lt;li&gt;Our collaborators from Spain were &lt;a href=&#34;http://www.answare-tech.com/&#34;&gt;Answare&lt;/a&gt;, &lt;a href=&#34;http://emotionresearchlab.com/&#34;&gt;EMOTION RESEARCH LAB&lt;/a&gt;, &lt;a href=&#34;http://experis.es/&#34;&gt; Experis ManpowerGroup S.L.U&lt;/a&gt;, &lt;a href=&#34;http://www.iti.es/&#34;&gt;Instituto Tecnologico de Informatica&lt;/a&gt;, &lt;a href=&#34;http://taiger.com/&#34;&gt; Taiger&lt;/a&gt;, and &lt;a href=&#34;http://www.upm.es/&#34;&gt;Technical University of Madrid (UPM)&lt;/a&gt;.
+&lt;li&gt;The partners from Romania includes &lt;a href=&#34;http://www.beia.ro/&#34;&gt;Altfactor &lt;/a&gt;, and &lt;a href=&#34;http://www.altfactor.ro/&#34;&gt;BEIA Consult International&lt;/a&gt;.
+&lt;li&gt;Our domestic partners from Korea were &lt;a href=&#34;https://www.etri.re.kr/&#34;&gt;Electronics and Telecommunications Research Institute (ETRI)&lt;/a&gt;, &lt;a href=&#34;http://innopiatech.com/&#34;&gt; InnoPiaTech &lt;/a&gt;, and &lt;a href=&#34;http://smcore.co.kr/&#34;&gt;SmartCore Co Ltd&lt;/a&gt;.
+&lt;/ul&gt;
+&lt;b/&gt;Task and Responsibilities:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;Took a leading role under the direction of principal investigator in order to define project plans and objectives.
+&lt;li&gt;Developed ontology-based semantic data models to represent, hide, and inference the knowledge regarding the privacy and provenance.
+&lt;li&gt;Developed the data collection environment in order to receive a very huge amount of data.
+&lt;li&gt;Representation of collected data semantically for the reasoning and inferencing of knowledge.
+&lt;li&gt;Detection the state of individuals through smart sensors (sensor + Big data-analytic, localization, activity, emotion).
+&lt;li&gt;Developed the dedicated IoT platform and build relevant and innovative use cases for various groups of users.
+&lt;li&gt;Arrange workshops, meetings, and different presentation sessions in order to resolve issues and share research outcomes with other stakeholders.
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web Objects based Smart Aging Services (WoO-SAS)</title>
+      <link>https://example.com/project/woo/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/woo/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+The aim of WoO-SAS (Web Objects based Smart Aging Services) project is to develop technologies and mechanisms to improve the life of a super-aging society. Some of the topics we are currently exploring include the development of self-Learning smart aging service objects, to design infrastructure for healthcare services to assist the elderly living, collecting and analyzing data from the wearable and non-wearable sensors in order to monitoring vital health conditions. The outcome of this project is the IoT data analytics and services platform which provides services to the elderly.
+&lt;/br&gt;
+&lt;b&gt;Collaborations:&lt;/b&gt;
+&lt;/br&gt;
+In this project, our partners were the &lt;a href=&#34;https://www.keti.re.kr/eng/&#34;&gt;Korea Electronics Technology Institute (KETI)&lt;/a&gt;, &lt;a href=&#34;https://www.etri.re.kr/eng/main/main.etri&#34;&gt; Electronics and Telecommunications Research Institute &lt;/a&gt; and HUFS Information System Lab.
+&lt;br/&gt;
+&lt;b&gt;Tasks and Responsibilities:&lt;/b&gt;
+&lt;ul&gt;
+  &lt;li&gt;Development of Self-Learning Smart Ageing Service using Web Objects and Artificial Neural Network.&lt;/li&gt;
+  &lt;li&gt;Design and developing of Infrastructure for healthcare services to assist elderly living.&lt;/li&gt;
+  &lt;li&gt;Designing semantic ontology for the efficient management of user centering services.&lt;/li&gt;
+  &lt;li&gt;Collecting and analyzing data from the wearable and non-wearable sensors in order to monitor health conditions and elderly behavior.&lt;/li&gt;
+  &lt;li&gt;Analyzing and enforcing user privacy in the data collection and analytic.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Scholarship Award</title>
+      <link>https://example.com/awards/hufs_4/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/awards/hufs_4/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;HUFS Foreign Student Scholarship for PhD studies (2016~2020).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Framework for Detecting Event related Sentiments of a Community</title>
+      <link>https://example.com/publication/qau_thesis/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/qau_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>https://example.com/extras/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>https://example.com/extras/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -733,10 +1305,45 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Detecting Event related Sentiments of a Community (CommuniMents)</title>
+      <link>https://example.com/project/communiments/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/communiments/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+Social media has revolutionized human communication and styles of interaction. Due to its easiness and effective medium, people share and exchange information, carry out discussions on various events, and express their opinions. For effective policy making and understanding the response of a community on different events, we need to monitor and analyze social media. In social media, some users are more influential, for example, a famous politician may have more influence than a common person. These influential users belong to specific communities. The main objective of this project was to analyze the sentiments of a specific community on various events. For detecting the event-based sentiments of a community we developed a novel framework.
+&lt;/br&gt;
+&lt;b&gt;Tasks:&lt;/b&gt;
+&lt;ul&gt;
+&lt;/ui&gt;To detect communities from twitter data sets using snowball sampling.
+&lt;/ui&gt;To identify events based on demographic locations and topics using recurrent neural network.
+&lt;/ui&gt;To detect event wise sentiments of communities using deep using recurrent neural network.
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>https://example.com/extras/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>https://example.com/extras/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -748,6 +1355,48 @@ $$&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dr. Aslam Jarwar</title>
+      <link>https://example.com/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/authors/admin/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+I am a Senior Lecturer (Assistant Professor) at the  &lt;a href=&#34;https://www.shu.ac.uk/&#34; target=&#34;_blank&#34;&gt; Department of Computing, Sheffield Hallam University (SHU)&lt;/a&gt; and co-investigator for &lt;a href=&#34;https://petras-iot.org/project/secure-ontologies-for-iot-systems-sofiots/&#34; target=&#34;_blank&#34;&gt;  the Secure Ontologies for IoT Systems (SOfIoTS)&lt;/a&gt; project. I am also an  Associate Fellow of the Higher Education Academy 
+
+&lt;a href=&#34;https://example.com/uploads/afhea.pdf&#34; target=&#34;_blank&#34;&gt;(AFHEA)&lt;/a&gt;
+, UK, 
+
+&lt;a href=&#34;https://example.com/uploads/smieee.pdf&#34; target=&#34;_blank&#34;&gt;Senior Member IEEE&lt;/a&gt;
+ and a  member of the &lt;a href=&#34;https://digitaltwinhub.co.uk/networks/22-4dsig-members-only/&#34; target=&#34;_blank&#34;&gt;4-Dimensionalism Special Interest Group (4DSIG) Network&lt;/a&gt;.
+ I was a Research Fellow for Industrial/Cyber-Physical System Security Modelling at the  &lt;a href=&#34;https://www.ucl.ac.uk/steapp/research/digital-technologies-policy-laboratory/petras-national-centre-excellence-iot-systems&#34; target=&#34;_blank&#34;&gt; Department of Science, Technology, Engineering, and Public Policy (STEaPP)&lt;/a&gt;, &lt;a href=&#34;https://www.ucl.ac.uk/&#34; target=&#34;_blank&#34;&gt;University College London (UCL)&lt;/a&gt;, where I worked with  &lt;a href=&#34;https://iris.ucl.ac.uk/iris/browse/profile?upi=JWATS97&#34; target=&#34;_blank&#34;&gt; Prof. Jeremy Watson&lt;/a&gt;.  I was a Postdoctoral Researcher for the multidisciplinary project at the &lt;a href=&#34;https://www.manchester.ac.uk/&#34; target=&#34;_blank&#34;&gt; University of Manchester (UoM)&lt;/a&gt; and the &lt;a href=&#34;https://www.southampton.ac.uk/&#34; target=&#34;_blank&#34;&gt; University of Southampton (UoS)&lt;/a&gt;, where I worked with&lt;a href=&#34;https://www.research.manchester.ac.uk/portal/mark.elliot.html&#34; target=&#34;_blank&#34;&gt; Prof. Mark Elliot&lt;/a&gt; and &lt;a href=&#34;https://www.ecs.soton.ac.uk/people/ac1n16&#34; target=&#34;_blank&#34;&gt;Prof. Age Chapman&lt;/a&gt;. While working at UoM and UoS, I reviewed and developed  provenance and ontological methods to model the security and privacy of sensitive streaming data.
+&lt;p&gt;I received the Ph.D. degree under the supervision of &lt;a href=&#34;https://www.itu.int/en/ITU-T/Workshops-and-Seminars/iot/201703/Pages/Bios/CHONG-Il-Young.aspx&#34; target=&#34;_blank&#34;&gt;Prof. Ilyoung Chong&lt;/a&gt; from the &lt;a href=&#34;https://ice.hufs.ac.kr/ice/index.do&#34; target=&#34;_blank&#34;&gt;Department of Information Communications Engineering&lt;/a&gt;, &lt;a href=&#34;https://hufsenglish.hufs.ac.kr/&#34; target=&#34;_blank&#34;&gt;Hankuk University of Foreign Studies, South Korea&lt;/a&gt;. I did the MS in Information Science and Technology from the &lt;a href=&#34;http://cs.qau.edu.pk/&#34; target=&#34;_blank&#34;&gt;Department of Computer Sciences&lt;/a&gt;, &lt;a href=&#34;https://qau.edu.pk/&#34; target=&#34;_blank&#34;&gt;Quaid-i-Azam University, Islamabad, Pakistan&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My research focuses on the Industrial Internet of things (IIoT)/Cyber Physical Systems  Security Modelling, IoT-enabled Context-aware data processing, Semantic reasoning, and Artificial Intelligence. I am an Editorial Board Member of  &lt;a href=https://www.techscience.com/journal/iasc target=&#34;_blank&#34;&gt; IASC - Intelligent Automation &amp;amp; Soft Computing Journal &lt;/a&gt; and  the Managing Guest Editor for special issue on &lt;a href=https://www.journals.elsevier.com/sustainable-energy-technologies-and-assessments/forthcoming-special-issues/role-of-disruptive-technologies-in-modern-distribution-grid-automation target=&#34;_blank&#34;&gt; “Role of Disruptive Technologies in Modern Distribution Grid Automation” in Sustainable Energy Technologies and Assessments Journal&lt;/a&gt; and TPC for &lt;a href=http://fse.green.edu.bd/sti-2022/ target=&#34;_blank&#34;&gt;4th INTERNATIONAL CONFERENCE ON SUSTAINABLE TECHNOLOGIES FOR INDUSTRY 4.0&lt;/a&gt;. Previously I was TPC for IEEE WCNC 2020, NCETIET-2020, &lt;a href=https://imtic.muet.edu.pk/call/ target=&#34;_blank&#34;&gt;IMTIC18&lt;/a&gt;, IEEE global communications conference (GLOBECOM), and IEEE International Conference on Distributed Computing Systems (ICDCS). I regularly review articles for IEEE Transactions on Industrial Informatics,  IEEE Transactions on Network Science and Engineering, IEEE Transactions on Computational Social Systems, IEEE Sensors Journal, Future Generation Computer System (FGCS), and other IEEE and Springer Q1 journals.
+Please get in touch with me if you are interested in my research and want to collaborate or pursue the Ph.D./Master&amp;rsquo;s degree.&lt;/p&gt;
+&lt;p&gt;
+   &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download my 
+
+&lt;a href=&#34;https://example.com/uploads/aslam_cv_29122021.pdf&#34; target=&#34;_blank&#34;&gt;resume&lt;/a&gt;
+.[last updated 23.12.2021]&lt;/p&gt;
 </description>
     </item>
     

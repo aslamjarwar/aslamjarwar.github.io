@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emoSpaces | </title>
+    <link>https://example.com/tag/emospaces/</link>
+      <atom:link href="https://example.com/tag/emospaces/index.xml" rel="self" type="application/rss+xml" />
+    <description>emoSpaces</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>emoSpaces</title>
+      <link>https://example.com/tag/emospaces/</link>
+    </image>
+    
+    <item>
+      <title>Enhanced Affective Wellbeing based on Emotion Technologies for adapting IoT spaces (EmoSpaces)</title>
+      <link>https://example.com/project/emospaces/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/emospaces/</guid>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+The innovative aspect of this project were lies in considering emotion and sentiments as a context source for improving intelligent services in the IoT environment. In this project, our research focus was to develop an IoT data analytics and service provisioning platform that recognize the context and situation of user. The significance of this research was that the situation recognition and adaption based on the emotions leads to improving the service quality, users (such as elderly, teenager, etc) protection and privacy.
+&lt;b&gt;Collaborations:&lt;/b&gt;
+&lt;br/&gt;
+In this project, we collaborated with research laboratories from academia and industries from France , Spain, and Romania.
+The partners from France were:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://thalesgroup.com/&#34;&gt;Thales &lt;/a&gt; , &lt;a href=&#34;https://www.st.com/&#34;&gt;STMicroelectronics&lt;/a&gt;, &lt;a href=&#34;http://lab.lissi.fr/&#34;&gt;UPEC University LISSI Lab &lt;/a&gt;, &lt;a href=&#34;http://www.arkamys.com/&#34;&gt; Arkamys &lt;/a&gt;, &lt;a href=&#34;http://cea.fr/&#34;&gt; CEA LIST &lt;/a&gt;, &lt;a href=&#34;http://www.maidis.fr/&#34;&gt;Maidis&lt;/a&gt; , &lt;a href=&#34;https://www.sorbonne-universite.fr/&#34;&gt;Sorbonne Université&lt;/a&gt;.
+&lt;li&gt;Our collaborators from Spain were &lt;a href=&#34;http://www.answare-tech.com/&#34;&gt;Answare&lt;/a&gt;, &lt;a href=&#34;http://emotionresearchlab.com/&#34;&gt;EMOTION RESEARCH LAB&lt;/a&gt;, &lt;a href=&#34;http://experis.es/&#34;&gt; Experis ManpowerGroup S.L.U&lt;/a&gt;, &lt;a href=&#34;http://www.iti.es/&#34;&gt;Instituto Tecnologico de Informatica&lt;/a&gt;, &lt;a href=&#34;http://taiger.com/&#34;&gt; Taiger&lt;/a&gt;, and &lt;a href=&#34;http://www.upm.es/&#34;&gt;Technical University of Madrid (UPM)&lt;/a&gt;.
+&lt;li&gt;The partners from Romania includes &lt;a href=&#34;http://www.beia.ro/&#34;&gt;Altfactor &lt;/a&gt;, and &lt;a href=&#34;http://www.altfactor.ro/&#34;&gt;BEIA Consult International&lt;/a&gt;.
+&lt;li&gt;Our domestic partners from Korea were &lt;a href=&#34;https://www.etri.re.kr/&#34;&gt;Electronics and Telecommunications Research Institute (ETRI)&lt;/a&gt;, &lt;a href=&#34;http://innopiatech.com/&#34;&gt; InnoPiaTech &lt;/a&gt;, and &lt;a href=&#34;http://smcore.co.kr/&#34;&gt;SmartCore Co Ltd&lt;/a&gt;.
+&lt;/ul&gt;
+&lt;b/&gt;Task and Responsibilities:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;Took a leading role under the direction of principal investigator in order to define project plans and objectives.
+&lt;li&gt;Developed ontology-based semantic data models to represent, hide, and inference the knowledge regarding the privacy and provenance.
+&lt;li&gt;Developed the data collection environment in order to receive a very huge amount of data.
+&lt;li&gt;Representation of collected data semantically for the reasoning and inferencing of knowledge.
+&lt;li&gt;Detection the state of individuals through smart sensors (sensor + Big data-analytic, localization, activity, emotion).
+&lt;li&gt;Developed the dedicated IoT platform and build relevant and innovative use cases for various groups of users.
+&lt;li&gt;Arrange workshops, meetings, and different presentation sessions in order to resolve issues and share research outcomes with other stakeholders.
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
