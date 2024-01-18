@@ -5,7 +5,7 @@
     <link>https://example.com/tag/sofiots/</link>
       <atom:link href="https://example.com/tag/sofiots/index.xml" rel="self" type="application/rss+xml" />
     <description>SOfIoTS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>SOfIoTS</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Industrial Internet of Things security modelling using ontological methods</title>
-      <link>https://example.com/publication/iiotonto2022/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/iiotonto2022/</guid>
+      <title>Socio-Technical Security Modelling: Analysis of State-of-the-Art, Application, and Maturity in Critical Industrial Infrastructure Environments/Domains</title>
+      <link>https://example.com/publication/sofiot_report_1/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sofiot_report_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Industrial Internet of Things security modelling using ontological methods</title>
-      <link>https://example.com/publication/taking_iot_next_level/</link>
+      <link>https://example.com/publication/iiotonto2022/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/taking_iot_next_level/</guid>
+      <guid>https://example.com/publication/iiotonto2022/</guid>
       <description></description>
     </item>
     

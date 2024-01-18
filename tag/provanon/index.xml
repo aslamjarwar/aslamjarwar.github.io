@@ -5,12 +5,36 @@
     <link>https://example.com/tag/provanon/</link>
       <atom:link href="https://example.com/tag/provanon/index.xml" rel="self" type="application/rss+xml" />
     <description>PROVANON</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>PROVANON</title>
       <link>https://example.com/tag/provanon/</link>
     </image>
+    
+    <item>
+      <title>Anonymisation and Provenance Expressing Data Environments with PROV-Turing Pilot Project Final Report</title>
+      <link>https://example.com/publication/provanon_pilot_report/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/provanon_pilot_report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling data environments within PROV to assist anonymisation decision-making</title>
+      <link>https://example.com/publication/provanon_data/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/provanon_data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Provenance, Anonymisation and Data Environments: a Unifying Construction</title>
+      <link>https://example.com/publication/provanon_arxiv/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/provanon_arxiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Provenance and Anonymisation (PROVANON)</title>

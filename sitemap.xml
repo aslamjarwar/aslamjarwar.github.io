@@ -42,6 +42,22 @@
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/publication-type/report/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/sofiot_report_1/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/sofiots/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/6gassisted/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -66,20 +82,16 @@
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/taking_iot_next_level/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication-type/paper-conference/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/sofiots/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+    <loc>https://example.com/publication/provanon_pilot_report/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tag/provanon/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/thingsdata2022/</loc>
@@ -150,10 +162,6 @@
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/provanon/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/project/provanon/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -183,14 +191,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/iot_dq_itu_t/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication-type/report/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/socio-technical/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
