@@ -5,12 +5,28 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    
+    <item>
+      <title>SIoAT in Action : Transforming Autonomous Agricultural Field Monitoring for Seamless Insurance Claims with Social IoT</title>
+      <link>https://example.com/publication/sioat_-in-_action/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sioat_-in-_action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taking IoT Security to the Next Level: Hyperledger Fabric Private Blockchain enabled IoT Middleware</title>
+      <link>https://example.com/publication/iot_next_level/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/iot_next_level/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FRC-GIF: Frame Ranking-Based Personalized Artistic Media Generation Method for Resource Constrained Devices</title>
@@ -108,12 +124,36 @@
     </item>
     
     <item>
+      <title>Secure ontologies for the Internet of Things: representing risk and security concepts using basic formal ontology</title>
+      <link>https://example.com/publication/sofiot_report_4/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sofiot_report_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOfIoTS: Ontological Framework, Demonstration Outcomes, and Recommendations for Further Work (D3/D4)</title>
+      <link>https://example.com/publication/sofiot_report_2/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sofiot_report_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Get your Foes Fooled: Proximal Gradient Split Learning for Defense against Model Inversion Attacks on IoMT data</title>
       <link>https://example.com/publication/tnse2022/</link>
       <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/tnse2022/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=21100372437&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=21100372437&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Secure ontologies for IoT Devices: a Review and Gap Analysis</title>
+      <link>https://example.com/publication/sofiot_report_3/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sofiot_report_3/</guid>
+      <description></description>
     </item>
     
     <item>
