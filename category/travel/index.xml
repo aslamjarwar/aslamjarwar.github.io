@@ -5,12 +5,22 @@
     <link>https://example.com/category/travel/</link>
       <atom:link href="https://example.com/category/travel/index.xml" rel="self" type="application/rss+xml" />
     <description>travel</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>travel</title>
       <link>https://example.com/category/travel/</link>
     </image>
+    
+    <item>
+      <title>Travel Award, Delft, The Netherland</title>
+      <link>https://example.com/awards/delft/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/awards/delft/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The EPSRC-funded SofIoTS project generously provided a research travel grant, facilitating my participation in the esteemed 12th Conference of IoT at TU Delft, The Netherlands.  I had the privilege of presenting my paper at this prominent event.  &lt;a href=https://twitter.com/PETRASiot/status/1589630466638110724 target=_blank&gt;#IoTDelft&lt;/a&gt;.  For more detail please visit &lt;a href=&#34;https://iot-conference.org/iot2022/&#34; target=_blank&gt;conference page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Travel Award</title>
