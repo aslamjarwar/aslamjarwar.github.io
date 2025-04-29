@@ -17,7 +17,28 @@
       <link>https://example.com/project/water_pollution/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/water_pollution/</guid>
-      <description></description>
+      <description>&lt;style&gt;
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+}
+
+div.d {
+  text-align: justify;
+}
+&lt;/style&gt;
+&lt;div class=&#34;d&#34;&gt;
+Freshwater ecosystems—especially rivers—are essential to both human and ecological well-being. They provide clean drinking water, support a wide range of recreational activities, and sustain local economies reliant on clean water, such as fisheries. However, pollution poses a serious threat to these vital resources and the ecosystems they support.
+&lt;br&gt;
+This project tackles the challenge of river pollution through a collaborative effort with AquaSensor, a company specializing in advanced water quality monitoring technologies. The initiative is supported through internal funding and will run from 1 June 2024 to 31 July 2024.
+&lt;/div &gt;</description>
     </item>
     
     <item>
